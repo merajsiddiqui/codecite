@@ -11,8 +11,7 @@ class Home extends Controller {
     public $spar = [];
 
     public function index() {
-        $test = $this->security();
-        var_dump($test);
+        
     }
     public function contact() {
         

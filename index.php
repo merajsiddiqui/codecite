@@ -4,7 +4,7 @@ define("DEBUG", TRUE);
 
 // 1. define the default path for includes
 //define("APP_PATH", dirname(dirname(__FILE__)));
-$domain = "http://localhost/codecite/";
+$domain = "http://codecite.com/";
 define("APP_PATH", str_replace(DIRECTORY_SEPARATOR, "/", dirname(__FILE__)));
 define("CDN", $domain."public/assets/");
 define("URL", "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]");

@@ -1,0 +1,928 @@
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: home/index
+[2015-12-31 16:25:55]framework.router.dispatch.after: home/index, home, index
+[2015-12-31 16:25:55]framework.controller.construct.before: Home
+[2015-12-31 16:25:55]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 16:25:55]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 16:25:55]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 16:25:55]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 16:25:55]framework.controller.construct.after: Home
+Average: 0.000820625, Longest: 0.002603, Shortest: 5.4999999999972E-5, Total: 0.013244
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/gallery-img-2-thumb
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/gallery-img-2-thumb, img, gallery
+Average: 0.0003287, Longest: 0.00094899999999998, Shortest: 9.6999999999903E-5, Total: 0.003973
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/gallery-img-3-thumb
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/gallery-img-3-thumb, img, gallery
+Average: 0.0003243, Longest: 0.000911, Shortest: 9.5999999999985E-5, Total: 0.008531
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/gallery-img-4-thumb
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/gallery-img-4-thumb, img, gallery
+Average: 0.00057980000000001, Longest: 0.0029870000000001, Shortest: 9.3999999999927E-5, Total: 0.006108
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-1
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-1, img, gallery
+Average: 0.0005104, Longest: 0.00299, Shortest: 9.300000000001E-5, Total: 0.005383
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-3
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-3, img, gallery
+Average: 0.0003996, Longest: 0.0012259999999999, Shortest: 0.00014599999999998, Total: 0.004275
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-2
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-2, img, gallery
+Average: 0.00069439999999999, Longest: 0.003822, Shortest: 9.7000000000014E-5, Total: 0.0072479999999999
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-4
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-4, img, gallery
+Average: 0.00027980000000001, Longest: 0.00076100000000001, Shortest: 9.5999999999985E-5, Total: 0.0031070000000001
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-7
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-7, img, gallery
+Average: 0.0002938, Longest: 0.00092900000000007, Shortest: 9.0000000000034E-5, Total: 0.0032770000000001
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-5
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-5, img, gallery
+Average: 0.00076269999999999, Longest: 0.004908, Shortest: 9.1999999999981E-5, Total: 0.007927
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-6
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-6, img, gallery
+Average: 0.0005783, Longest: 0.00327, Shortest: 9.1999999999981E-5, Total: 0.006065
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-8
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-8, img, gallery
+Average: 0.00053989999999999, Longest: 0.0034, Shortest: 9.5000000000067E-5, Total: 0.0056919999999999
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-9
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-9, img, gallery
+Average: 0.0003878, Longest: 0.001903, Shortest: 9.0999999999952E-5, Total: 0.004146
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-10
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-10, img, gallery
+Average: 0.0003188, Longest: 0.00081799999999999, Shortest: 9.7000000000014E-5, Total: 0.003498
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-12
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-12, img, gallery
+Average: 0.0003166, Longest: 0.00086200000000003, Shortest: 9.899999999996E-5, Total: 0.0034999999999999
+[2015-12-31 16:25:55]framework.configuration.initialize.before: ini
+[2015-12-31 16:25:55]framework.configuration.initialize.after: ini
+[2015-12-31 16:25:55]framework.database.initialize.before: 
+[2015-12-31 16:25:55]framework.database.initialize.after: mysql
+[2015-12-31 16:25:55]framework.cache.initialize.before: 
+[2015-12-31 16:25:55]framework.cache.initialize.after: memcached
+[2015-12-31 16:25:55]framework.session.initialize.before: 
+[2015-12-31 16:25:55]framework.session.initialize.after: server
+[2015-12-31 16:25:55]framework.router.dispatch.before: img/gallery/flickr-img-11
+[2015-12-31 16:25:55]framework.router.dispatch.after: img/gallery/flickr-img-11, img, gallery
+Average: 0.00071289999999999, Longest: 0.0044559999999999, Shortest: 8.8000000000088E-5, Total: 0.00744
+[2015-12-31 16:26:27]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:27]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:27]framework.database.initialize.before: 
+[2015-12-31 16:26:27]framework.database.initialize.after: mysql
+[2015-12-31 16:26:27]framework.cache.initialize.before: 
+[2015-12-31 16:26:27]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:27]framework.session.initialize.before: 
+[2015-12-31 16:26:27]framework.session.initialize.after: server
+[2015-12-31 16:26:27]framework.router.dispatch.before: home/index
+[2015-12-31 16:26:27]framework.router.dispatch.after: home/index, home, index
+[2015-12-31 16:26:27]framework.controller.construct.before: Home
+[2015-12-31 16:26:27]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 16:26:27]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 16:26:27]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 16:26:27]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 16:26:27]framework.controller.construct.after: Home
+Average: 0.000261875, Longest: 0.00083200000000005, Shortest: 5.3000000000081E-5, Total: 0.00431
+[2015-12-31 16:26:28]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:28]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:28]framework.database.initialize.before: 
+[2015-12-31 16:26:28]framework.database.initialize.after: mysql
+[2015-12-31 16:26:28]framework.cache.initialize.before: 
+[2015-12-31 16:26:28]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:28]framework.session.initialize.before: 
+[2015-12-31 16:26:28]framework.session.initialize.after: server
+[2015-12-31 16:26:28]framework.router.dispatch.before: public/assets/monokai
+[2015-12-31 16:26:28]framework.router.dispatch.after: public/assets/monokai, public, assets
+Average: 0.0003181, Longest: 0.00083099999999997, Shortest: 9.7999999999987E-5, Total: 0.003577
+[2015-12-31 16:26:29]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:29]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:29]framework.database.initialize.before: 
+[2015-12-31 16:26:29]framework.database.initialize.after: mysql
+[2015-12-31 16:26:29]framework.cache.initialize.before: 
+[2015-12-31 16:26:29]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:29]framework.session.initialize.before: 
+[2015-12-31 16:26:29]framework.session.initialize.after: server
+[2015-12-31 16:26:29]framework.router.dispatch.before: img/gallery/gallery-img-2-thumb
+[2015-12-31 16:26:29]framework.router.dispatch.after: img/gallery/gallery-img-2-thumb, img, gallery
+Average: 0.0003198, Longest: 0.00076899999999999, Shortest: 9.6999999999986E-5, Total: 0.003583
+[2015-12-31 16:26:29]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:29]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:29]framework.database.initialize.before: 
+[2015-12-31 16:26:29]framework.database.initialize.after: mysql
+[2015-12-31 16:26:29]framework.cache.initialize.before: 
+[2015-12-31 16:26:29]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:29]framework.session.initialize.before: 
+[2015-12-31 16:26:29]framework.session.initialize.after: server
+[2015-12-31 16:26:29]framework.router.dispatch.before: img/gallery/gallery-img-4-thumb
+[2015-12-31 16:26:29]framework.router.dispatch.after: img/gallery/gallery-img-4-thumb, img, gallery
+Average: 0.0003031, Longest: 0.00088299999999997, Shortest: 9.5999999999985E-5, Total: 0.00338
+[2015-12-31 16:26:29]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:29]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:29]framework.database.initialize.before: 
+[2015-12-31 16:26:29]framework.database.initialize.after: mysql
+[2015-12-31 16:26:29]framework.cache.initialize.before: 
+[2015-12-31 16:26:29]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:29]framework.session.initialize.before: 
+[2015-12-31 16:26:29]framework.session.initialize.after: server
+[2015-12-31 16:26:29]framework.router.dispatch.before: img/gallery/gallery-img-3-thumb
+[2015-12-31 16:26:29]framework.router.dispatch.after: img/gallery/gallery-img-3-thumb, img, gallery
+Average: 0.0007138, Longest: 0.004395, Shortest: 0.00010199999999999, Total: 0.007458
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: public/assets/img/languages/htmlcss
+[2015-12-31 16:26:30]framework.router.dispatch.after: public/assets/img/languages/htmlcss, public, assets
+Average: 0.0003349, Longest: 0.00096000000000002, Shortest: 0.000107, Total: 0.003745
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-1
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-1, img, gallery
+Average: 0.000324, Longest: 0.00090099999999999, Shortest: 0.00010100000000002, Total: 0.003624
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-2
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-2, img, gallery
+Average: 0.0002963, Longest: 0.00082599999999999, Shortest: 0.00010200000000005, Total: 0.003318
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-3
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-3, img, gallery
+Average: 0.00029159999999999, Longest: 0.00076399999999999, Shortest: 0.0001000000000001, Total: 0.003262
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-5
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-5, img, gallery
+Average: 0.0002908, Longest: 0.00078, Shortest: 0.00011400000000006, Total: 0.003278
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-4
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-4, img, gallery
+Average: 0.000705, Longest: 0.004429, Shortest: 9.1999999999981E-5, Total: 0.00735
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-6
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-6, img, gallery
+Average: 0.0002984, Longest: 0.000776, Shortest: 0.00012799999999991, Total: 0.003371
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-7
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-7, img, gallery
+Average: 0.0002777, Longest: 0.00075599999999998, Shortest: 9.5000000000067E-5, Total: 0.003072
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-8
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-8, img, gallery
+Average: 0.0002749, Longest: 0.000753, Shortest: 9.5000000000067E-5, Total: 0.003057
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-9
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-9, img, gallery
+Average: 0.0003008, Longest: 0.00078400000000001, Shortest: 9.7999999999931E-5, Total: 0.003354
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-10
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-10, img, gallery
+Average: 0.0003015, Longest: 0.00078500000000004, Shortest: 9.899999999996E-5, Total: 0.003317
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:30]framework.cache.initialize.before: 
+[2015-12-31 16:26:30]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:30]framework.session.initialize.before: 
+[2015-12-31 16:26:30]framework.session.initialize.after: server
+[2015-12-31 16:26:30]framework.router.dispatch.before: img/gallery/flickr-img-11
+[2015-12-31 16:26:30]framework.router.dispatch.after: img/gallery/flickr-img-11, img, gallery
+Average: -0.0997074, Longest: 0.000816, Shortest: -0.99971, Total: -0.994169
+[2015-12-31 16:26:30]framework.configuration.initialize.before: ini
+[2015-12-31 16:26:30]framework.configuration.initialize.after: ini
+[2015-12-31 16:26:30]framework.database.initialize.before: 
+[2015-12-31 16:26:30]framework.database.initialize.after: mysql
+[2015-12-31 16:26:31]framework.cache.initialize.before: 
+[2015-12-31 16:26:31]framework.cache.initialize.after: memcached
+[2015-12-31 16:26:31]framework.session.initialize.before: 
+[2015-12-31 16:26:31]framework.session.initialize.after: server
+[2015-12-31 16:26:31]framework.router.dispatch.before: img/gallery/flickr-img-12
+[2015-12-31 16:26:31]framework.router.dispatch.after: img/gallery/flickr-img-12, img, gallery
+Average: 0.0003006, Longest: 0.000951, Shortest: 9.2E-5, Total: 0.00331
+[2015-12-31 16:27:22]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:22]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:22]framework.database.initialize.before: 
+[2015-12-31 16:27:22]framework.database.initialize.after: mysql
+[2015-12-31 16:27:22]framework.cache.initialize.before: 
+[2015-12-31 16:27:22]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:22]framework.session.initialize.before: 
+[2015-12-31 16:27:22]framework.session.initialize.after: server
+[2015-12-31 16:27:22]framework.router.dispatch.before: home/index
+[2015-12-31 16:27:22]framework.router.dispatch.after: home/index, home, index
+[2015-12-31 16:27:22]framework.controller.construct.before: Home
+[2015-12-31 16:27:22]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 16:27:22]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 16:27:22]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 16:27:22]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 16:27:22]framework.controller.construct.after: Home
+Average: 0.000315375, Longest: 0.00094300000000003, Shortest: 5.4999999999916E-5, Total: 0.0051140000000001
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: public/assets/monokai
+[2015-12-31 16:27:23]framework.router.dispatch.after: public/assets/monokai, public, assets
+Average: 0.000299, Longest: 0.00075999999999998, Shortest: 9.5999999999985E-5, Total: 0.003369
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/gallery-img-2-thumb
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/gallery-img-2-thumb, img, gallery
+Average: 0.0016098, Longest: 0.013939, Shortest: 9.7000000000014E-5, Total: 0.016453
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/flickr-img-1
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/flickr-img-1, img, gallery
+Average: 0.0011285, Longest: 0.0091079999999999, Shortest: 0.00010599999999994, Total: 0.011579
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: public/assets/img/languages/htmlcss
+[2015-12-31 16:27:23]framework.router.dispatch.after: public/assets/img/languages/htmlcss, public, assets
+Average: 0.0010327, Longest: 0.004297, Shortest: 9.1999999999981E-5, Total: 0.01061
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/gallery-img-3-thumb
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/gallery-img-3-thumb, img, gallery
+Average: 0.0016927, Longest: 0.008248, Shortest: 9.300000000001E-5, Total: 0.017302
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/flickr-img-2
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/flickr-img-2, img, gallery
+Average: 0.0016673, Longest: 0.008439, Shortest: 0.00010100000000002, Total: 0.016958
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/gallery-img-4-thumb
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/gallery-img-4-thumb, img, gallery
+Average: 0.0011159, Longest: 0.008424, Shortest: 0.00010600000000005, Total: 0.011487
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/flickr-img-4
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/flickr-img-4, img, gallery
+Average: 0.0015519, Longest: 0.012628, Shortest: 0.00011000000000005, Total: 0.01587
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/flickr-img-5
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/flickr-img-5, img, gallery
+Average: 0.0010105, Longest: 0.0065040000000001, Shortest: 9.4000000000038E-5, Total: 0.010369
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/flickr-img-3
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/flickr-img-3, img, gallery
+Average: 0.0013475, Longest: 0.01142, Shortest: 9.1000000000063E-5, Total: 0.013725
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/flickr-img-7
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/flickr-img-7, img, gallery
+Average: 0.0008123, Longest: 0.005865, Shortest: 9.1999999999981E-5, Total: 0.00842
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/flickr-img-8
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/flickr-img-8, img, gallery
+Average: 0.0011041, Longest: 0.005092, Shortest: 0.00010200000000005, Total: 0.011277
+[2015-12-31 16:27:23]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:23]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:23]framework.database.initialize.before: 
+[2015-12-31 16:27:23]framework.database.initialize.after: mysql
+[2015-12-31 16:27:23]framework.cache.initialize.before: 
+[2015-12-31 16:27:23]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:23]framework.session.initialize.before: 
+[2015-12-31 16:27:23]framework.session.initialize.after: server
+[2015-12-31 16:27:23]framework.router.dispatch.before: img/gallery/flickr-img-6
+[2015-12-31 16:27:23]framework.router.dispatch.after: img/gallery/flickr-img-6, img, gallery
+Average: 0.0014414, Longest: 0.012257, Shortest: 0.000112, Total: 0.014687
+[2015-12-31 16:27:24]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:24]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:24]framework.database.initialize.before: 
+[2015-12-31 16:27:24]framework.database.initialize.after: mysql
+[2015-12-31 16:27:24]framework.cache.initialize.before: 
+[2015-12-31 16:27:24]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:24]framework.session.initialize.before: 
+[2015-12-31 16:27:24]framework.session.initialize.after: server
+[2015-12-31 16:27:24]framework.router.dispatch.before: img/gallery/flickr-img-10
+[2015-12-31 16:27:24]framework.router.dispatch.after: img/gallery/flickr-img-10, img, gallery
+Average: 0.0002917, Longest: 0.00078, Shortest: 0.00010700000000002, Total: 0.010585
+[2015-12-31 16:27:24]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:24]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:24]framework.database.initialize.before: 
+[2015-12-31 16:27:24]framework.database.initialize.after: mysql
+[2015-12-31 16:27:24]framework.cache.initialize.before: 
+[2015-12-31 16:27:24]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:24]framework.session.initialize.before: 
+[2015-12-31 16:27:24]framework.session.initialize.after: server
+[2015-12-31 16:27:24]framework.router.dispatch.before: img/gallery/flickr-img-9
+[2015-12-31 16:27:24]framework.router.dispatch.after: img/gallery/flickr-img-9, img, gallery
+Average: 0.0008273, Longest: 0.006261, Shortest: 9.300000000001E-5, Total: 0.008587
+[2015-12-31 16:27:24]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:24]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:24]framework.database.initialize.before: 
+[2015-12-31 16:27:24]framework.database.initialize.after: mysql
+[2015-12-31 16:27:24]framework.cache.initialize.before: 
+[2015-12-31 16:27:24]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:24]framework.session.initialize.before: 
+[2015-12-31 16:27:24]framework.session.initialize.after: server
+[2015-12-31 16:27:24]framework.router.dispatch.before: img/gallery/flickr-img-11
+[2015-12-31 16:27:24]framework.router.dispatch.after: img/gallery/flickr-img-11, img, gallery
+Average: 0.0007103, Longest: 0.002874, Shortest: 9.1999999999981E-5, Total: 0.007374
+[2015-12-31 16:27:24]framework.configuration.initialize.before: ini
+[2015-12-31 16:27:24]framework.configuration.initialize.after: ini
+[2015-12-31 16:27:24]framework.database.initialize.before: 
+[2015-12-31 16:27:24]framework.database.initialize.after: mysql
+[2015-12-31 16:27:24]framework.cache.initialize.before: 
+[2015-12-31 16:27:24]framework.cache.initialize.after: memcached
+[2015-12-31 16:27:24]framework.session.initialize.before: 
+[2015-12-31 16:27:24]framework.session.initialize.after: server
+[2015-12-31 16:27:24]framework.router.dispatch.before: img/gallery/flickr-img-12
+[2015-12-31 16:27:24]framework.router.dispatch.after: img/gallery/flickr-img-12, img, gallery
+Average: 0.0007105, Longest: 0.00514, Shortest: 8.9999999999979E-5, Total: 0.007365
+[2015-12-31 17:10:25]framework.configuration.initialize.before: ini
+[2015-12-31 17:10:25]framework.configuration.initialize.after: ini
+[2015-12-31 17:10:25]framework.database.initialize.before: 
+[2015-12-31 17:10:25]framework.database.initialize.after: mysql
+[2015-12-31 17:10:25]framework.cache.initialize.before: 
+[2015-12-31 17:10:25]framework.cache.initialize.after: memcached
+[2015-12-31 17:10:25]framework.session.initialize.before: 
+[2015-12-31 17:10:25]framework.session.initialize.after: server
+[2015-12-31 17:10:25]framework.router.dispatch.before: robots
+[2015-12-31 17:10:25]framework.router.dispatch.after: robots, robots, index
+Average: 0.00034430000000001, Longest: 0.00088900000000003, Shortest: 9.8000000000042E-5, Total: 0.003739
+[2015-12-31 17:10:59]framework.configuration.initialize.before: ini
+[2015-12-31 17:10:59]framework.configuration.initialize.after: ini
+[2015-12-31 17:10:59]framework.database.initialize.before: 
+[2015-12-31 17:10:59]framework.database.initialize.after: mysql
+[2015-12-31 17:10:59]framework.cache.initialize.before: 
+[2015-12-31 17:10:59]framework.cache.initialize.after: memcached
+[2015-12-31 17:10:59]framework.session.initialize.before: 
+[2015-12-31 17:10:59]framework.session.initialize.after: server
+[2015-12-31 17:10:59]framework.router.dispatch.before: home/index
+[2015-12-31 17:10:59]framework.router.dispatch.after: home/index, home, index
+[2015-12-31 17:10:59]framework.controller.construct.before: Home
+[2015-12-31 17:10:59]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 17:10:59]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 17:10:59]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 17:10:59]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 17:10:59]framework.controller.construct.after: Home
+Average: 0.0002621875, Longest: 0.00088899999999992, Shortest: 5.5000000000027E-5, Total: 0.004261
+[2015-12-31 18:11:05]framework.configuration.initialize.before: ini
+[2015-12-31 18:11:05]framework.configuration.initialize.after: ini
+[2015-12-31 18:11:05]framework.database.initialize.before: 
+[2015-12-31 18:11:05]framework.database.initialize.after: mysql
+[2015-12-31 18:11:05]framework.cache.initialize.before: 
+[2015-12-31 18:11:05]framework.cache.initialize.after: memcached
+[2015-12-31 18:11:05]framework.session.initialize.before: 
+[2015-12-31 18:11:05]framework.session.initialize.after: server
+[2015-12-31 18:11:05]framework.router.dispatch.before: home/index
+[2015-12-31 18:11:05]framework.router.dispatch.after: home/index, home, index
+[2015-12-31 18:11:05]framework.controller.construct.before: Home
+[2015-12-31 18:11:05]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 18:11:05]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 18:11:05]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 18:11:05]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 18:11:05]framework.controller.construct.after: Home
+Average: 0.0002820625, Longest: 0.00098700000000002, Shortest: 5.6E-5, Total: 0.004588
+[2015-12-31 19:50:47]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:47]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:47]framework.database.initialize.before: 
+[2015-12-31 19:50:47]framework.database.initialize.after: mysql
+[2015-12-31 19:50:47]framework.cache.initialize.before: 
+[2015-12-31 19:50:47]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:47]framework.session.initialize.before: 
+[2015-12-31 19:50:47]framework.session.initialize.after: server
+[2015-12-31 19:50:47]framework.router.dispatch.before: home/index
+[2015-12-31 19:50:47]framework.router.dispatch.after: home/index, home, index
+[2015-12-31 19:50:47]framework.controller.construct.before: Home
+[2015-12-31 19:50:47]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 19:50:47]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 19:50:47]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 19:50:47]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 19:50:47]framework.controller.construct.after: Home
+Average: 0.000275, Longest: 0.00092700000000001, Shortest: 4.9999999999994E-5, Total: 0.00448
+[2015-12-31 19:50:48]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:48]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:48]framework.database.initialize.before: 
+[2015-12-31 19:50:48]framework.database.initialize.after: mysql
+[2015-12-31 19:50:48]framework.cache.initialize.before: 
+[2015-12-31 19:50:48]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:48]framework.session.initialize.before: 
+[2015-12-31 19:50:48]framework.session.initialize.after: server
+[2015-12-31 19:50:48]framework.router.dispatch.before: public/assets/monokai
+[2015-12-31 19:50:48]framework.router.dispatch.after: public/assets/monokai, public, assets
+Average: 0.00029600000000001, Longest: 0.00081700000000007, Shortest: 0.00010399999999999, Total: 0.003329
+[2015-12-31 19:50:52]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:52]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:52]framework.database.initialize.before: 
+[2015-12-31 19:50:52]framework.database.initialize.after: mysql
+[2015-12-31 19:50:52]framework.cache.initialize.before: 
+[2015-12-31 19:50:52]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:52]framework.session.initialize.before: 
+[2015-12-31 19:50:52]framework.session.initialize.after: server
+[2015-12-31 19:50:52]framework.router.dispatch.before: img/gallery/gallery-img-2-thumb
+[2015-12-31 19:50:52]framework.router.dispatch.after: img/gallery/gallery-img-2-thumb, img, gallery
+Average: 0.0003283, Longest: 0.00087, Shortest: 0.000124, Total: 0.003711
+[2015-12-31 19:50:52]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:52]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:52]framework.database.initialize.before: 
+[2015-12-31 19:50:52]framework.database.initialize.after: mysql
+[2015-12-31 19:50:52]framework.cache.initialize.before: 
+[2015-12-31 19:50:52]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:52]framework.session.initialize.before: 
+[2015-12-31 19:50:52]framework.session.initialize.after: server
+[2015-12-31 19:50:52]framework.router.dispatch.before: img/gallery/gallery-img-3-thumb
+[2015-12-31 19:50:52]framework.router.dispatch.after: img/gallery/gallery-img-3-thumb, img, gallery
+Average: 0.0003059, Longest: 0.00077899999999997, Shortest: 0.00010100000000002, Total: 0.003379
+[2015-12-31 19:50:52]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:52]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:52]framework.database.initialize.before: 
+[2015-12-31 19:50:52]framework.database.initialize.after: mysql
+[2015-12-31 19:50:52]framework.cache.initialize.before: 
+[2015-12-31 19:50:52]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:52]framework.session.initialize.before: 
+[2015-12-31 19:50:52]framework.session.initialize.after: server
+[2015-12-31 19:50:52]framework.router.dispatch.before: img/gallery/gallery-img-4-thumb
+[2015-12-31 19:50:52]framework.router.dispatch.after: img/gallery/gallery-img-4-thumb, img, gallery
+Average: 0.0003162, Longest: 0.00088600000000005, Shortest: 0.00010300000000008, Total: 0.003459
+[2015-12-31 19:50:56]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:56]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:56]framework.database.initialize.before: 
+[2015-12-31 19:50:56]framework.database.initialize.after: mysql
+[2015-12-31 19:50:56]framework.cache.initialize.before: 
+[2015-12-31 19:50:56]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:56]framework.session.initialize.before: 
+[2015-12-31 19:50:56]framework.session.initialize.after: server
+[2015-12-31 19:50:56]framework.router.dispatch.before: public/assets/img/languages/htmlcss
+[2015-12-31 19:50:56]framework.router.dispatch.after: public/assets/img/languages/htmlcss, public, assets
+Average: 0.000319, Longest: 0.00083, Shortest: 0.00011400000000006, Total: 0.0034780000000001
+[2015-12-31 19:50:58]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:58]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:58]framework.database.initialize.before: 
+[2015-12-31 19:50:58]framework.database.initialize.after: mysql
+[2015-12-31 19:50:58]framework.cache.initialize.before: 
+[2015-12-31 19:50:58]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:58]framework.session.initialize.before: 
+[2015-12-31 19:50:58]framework.session.initialize.after: server
+[2015-12-31 19:50:58]framework.router.dispatch.before: img/gallery/flickr-img-1
+[2015-12-31 19:50:58]framework.router.dispatch.after: img/gallery/flickr-img-1, img, gallery
+Average: 0.0003046, Longest: 0.000865, Shortest: 8.9000000000006E-5, Total: 0.003323
+[2015-12-31 19:50:58]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:58]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:58]framework.database.initialize.before: 
+[2015-12-31 19:50:58]framework.database.initialize.after: mysql
+[2015-12-31 19:50:58]framework.cache.initialize.before: 
+[2015-12-31 19:50:58]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:58]framework.session.initialize.before: 
+[2015-12-31 19:50:58]framework.session.initialize.after: server
+[2015-12-31 19:50:58]framework.router.dispatch.before: img/gallery/flickr-img-2
+[2015-12-31 19:50:58]framework.router.dispatch.after: img/gallery/flickr-img-2, img, gallery
+Average: 0.00030789999999999, Longest: 0.00080100000000005, Shortest: 9.9999999999989E-5, Total: 0.0034029999999999
+[2015-12-31 19:50:58]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:58]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:58]framework.database.initialize.before: 
+[2015-12-31 19:50:58]framework.database.initialize.after: mysql
+[2015-12-31 19:50:58]framework.cache.initialize.before: 
+[2015-12-31 19:50:58]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:58]framework.session.initialize.before: 
+[2015-12-31 19:50:58]framework.session.initialize.after: server
+[2015-12-31 19:50:58]framework.router.dispatch.before: img/gallery/flickr-img-3
+[2015-12-31 19:50:58]framework.router.dispatch.after: img/gallery/flickr-img-3, img, gallery
+Average: 0.0003111, Longest: 0.00079600000000002, Shortest: 0.00010500000000002, Total: 0.003385
+[2015-12-31 19:50:58]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:58]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:58]framework.database.initialize.before: 
+[2015-12-31 19:50:58]framework.database.initialize.after: mysql
+[2015-12-31 19:50:58]framework.cache.initialize.before: 
+[2015-12-31 19:50:58]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:58]framework.session.initialize.before: 
+[2015-12-31 19:50:58]framework.session.initialize.after: server
+[2015-12-31 19:50:58]framework.router.dispatch.before: img/gallery/flickr-img-5
+[2015-12-31 19:50:58]framework.router.dispatch.after: img/gallery/flickr-img-5, img, gallery
+Average: 0.0002938, Longest: 0.00088100000000002, Shortest: 9.8000000000042E-5, Total: 0.003217
+[2015-12-31 19:50:58]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:58]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:58]framework.database.initialize.before: 
+[2015-12-31 19:50:58]framework.database.initialize.after: mysql
+[2015-12-31 19:50:58]framework.cache.initialize.before: 
+[2015-12-31 19:50:58]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:58]framework.session.initialize.before: 
+[2015-12-31 19:50:58]framework.session.initialize.after: server
+[2015-12-31 19:50:58]framework.router.dispatch.before: img/gallery/flickr-img-4
+[2015-12-31 19:50:58]framework.router.dispatch.after: img/gallery/flickr-img-4, img, gallery
+Average: 0.0006775, Longest: 0.004077, Shortest: 9.5999999999985E-5, Total: 0.007068
+[2015-12-31 19:50:58]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:58]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:58]framework.database.initialize.before: 
+[2015-12-31 19:50:58]framework.database.initialize.after: mysql
+[2015-12-31 19:50:58]framework.cache.initialize.before: 
+[2015-12-31 19:50:58]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:58]framework.session.initialize.before: 
+[2015-12-31 19:50:58]framework.session.initialize.after: server
+[2015-12-31 19:50:58]framework.router.dispatch.before: img/gallery/flickr-img-6
+[2015-12-31 19:50:58]framework.router.dispatch.after: img/gallery/flickr-img-6, img, gallery
+Average: 0.00029669999999999, Longest: 0.00077700000000003, Shortest: 0.00011300000000003, Total: 0.0032139999999999
+[2015-12-31 19:50:59]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:59]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:59]framework.database.initialize.before: 
+[2015-12-31 19:50:59]framework.database.initialize.after: mysql
+[2015-12-31 19:50:59]framework.cache.initialize.before: 
+[2015-12-31 19:50:59]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:59]framework.session.initialize.before: 
+[2015-12-31 19:50:59]framework.session.initialize.after: server
+[2015-12-31 19:50:59]framework.router.dispatch.before: img/gallery/flickr-img-7
+[2015-12-31 19:50:59]framework.router.dispatch.after: img/gallery/flickr-img-7, img, gallery
+Average: 0.0003432, Longest: 0.00098000000000001, Shortest: 9.5999999999999E-5, Total: 0.00375
+[2015-12-31 19:50:59]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:59]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:59]framework.database.initialize.before: 
+[2015-12-31 19:50:59]framework.database.initialize.after: mysql
+[2015-12-31 19:50:59]framework.cache.initialize.before: 
+[2015-12-31 19:50:59]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:59]framework.session.initialize.before: 
+[2015-12-31 19:50:59]framework.session.initialize.after: server
+[2015-12-31 19:50:59]framework.router.dispatch.before: img/gallery/flickr-img-9
+[2015-12-31 19:50:59]framework.router.dispatch.after: img/gallery/flickr-img-9, img, gallery
+Average: 0.0004953, Longest: 0.002798, Shortest: 0.00015599999999999, Total: 0.005195
+[2015-12-31 19:50:59]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:59]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:59]framework.database.initialize.before: 
+[2015-12-31 19:50:59]framework.database.initialize.after: mysql
+[2015-12-31 19:50:59]framework.cache.initialize.before: 
+[2015-12-31 19:50:59]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:59]framework.session.initialize.before: 
+[2015-12-31 19:50:59]framework.session.initialize.after: server
+[2015-12-31 19:50:59]framework.router.dispatch.before: img/gallery/flickr-img-8
+[2015-12-31 19:50:59]framework.router.dispatch.after: img/gallery/flickr-img-8, img, gallery
+Average: 0.0006861, Longest: 0.003237, Shortest: 0.00010599999999999, Total: 0.007374
+[2015-12-31 19:50:59]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:59]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:59]framework.database.initialize.before: 
+[2015-12-31 19:50:59]framework.database.initialize.after: mysql
+[2015-12-31 19:50:59]framework.cache.initialize.before: 
+[2015-12-31 19:50:59]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:59]framework.session.initialize.before: 
+[2015-12-31 19:50:59]framework.session.initialize.after: server
+[2015-12-31 19:50:59]framework.router.dispatch.before: img/gallery/flickr-img-10
+[2015-12-31 19:50:59]framework.router.dispatch.after: img/gallery/flickr-img-10, img, gallery
+Average: 0.0003122, Longest: 0.000776, Shortest: 9.7999999999987E-5, Total: 0.003418
+[2015-12-31 19:50:59]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:59]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:59]framework.database.initialize.before: 
+[2015-12-31 19:50:59]framework.database.initialize.after: mysql
+[2015-12-31 19:50:59]framework.cache.initialize.before: 
+[2015-12-31 19:50:59]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:59]framework.session.initialize.before: 
+[2015-12-31 19:50:59]framework.session.initialize.after: server
+[2015-12-31 19:50:59]framework.router.dispatch.before: img/gallery/flickr-img-11
+[2015-12-31 19:50:59]framework.router.dispatch.after: img/gallery/flickr-img-11, img, gallery
+Average: 0.0003148, Longest: 0.00078800000000001, Shortest: 9.9000000000016E-5, Total: 0.003436
+[2015-12-31 19:50:59]framework.configuration.initialize.before: ini
+[2015-12-31 19:50:59]framework.configuration.initialize.after: ini
+[2015-12-31 19:50:59]framework.database.initialize.before: 
+[2015-12-31 19:50:59]framework.database.initialize.after: mysql
+[2015-12-31 19:50:59]framework.cache.initialize.before: 
+[2015-12-31 19:50:59]framework.cache.initialize.after: memcached
+[2015-12-31 19:50:59]framework.session.initialize.before: 
+[2015-12-31 19:50:59]framework.session.initialize.after: server
+[2015-12-31 19:50:59]framework.router.dispatch.before: img/gallery/flickr-img-12
+[2015-12-31 19:50:59]framework.router.dispatch.after: img/gallery/flickr-img-12, img, gallery
+Average: 0.0003205, Longest: 0.00092400000000004, Shortest: 9.899999999996E-5, Total: 0.003507
+[2015-12-31 21:39:43]framework.configuration.initialize.before: ini
+[2015-12-31 21:39:43]framework.configuration.initialize.after: ini
+[2015-12-31 21:39:43]framework.database.initialize.before: 
+[2015-12-31 21:39:43]framework.database.initialize.after: mysql
+[2015-12-31 21:39:43]framework.cache.initialize.before: 
+[2015-12-31 21:39:43]framework.cache.initialize.after: memcached
+[2015-12-31 21:39:43]framework.session.initialize.before: 
+[2015-12-31 21:39:43]framework.session.initialize.after: server
+[2015-12-31 21:39:43]framework.router.dispatch.before: home/index
+[2015-12-31 21:39:43]framework.router.dispatch.after: home/index, home, index
+[2015-12-31 21:39:43]framework.controller.construct.before: Home
+[2015-12-31 21:39:43]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 21:39:43]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 21:39:43]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 21:39:43]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 21:39:43]framework.controller.construct.after: Home
+Average: 0.0002774375, Longest: 0.00089, Shortest: 5.6E-5, Total: 0.004509
+[2015-12-31 21:39:49]framework.configuration.initialize.before: ini
+[2015-12-31 21:39:49]framework.configuration.initialize.after: ini
+[2015-12-31 21:39:49]framework.database.initialize.before: 
+[2015-12-31 21:39:49]framework.database.initialize.after: mysql
+[2015-12-31 21:39:49]framework.cache.initialize.before: 
+[2015-12-31 21:39:49]framework.cache.initialize.after: memcached
+[2015-12-31 21:39:49]framework.session.initialize.before: 
+[2015-12-31 21:39:49]framework.session.initialize.after: server
+[2015-12-31 21:39:49]framework.router.dispatch.before: public/assets/monokai
+[2015-12-31 21:39:49]framework.router.dispatch.after: public/assets/monokai, public, assets
+Average: 0.0003285, Longest: 0.00082800000000001, Shortest: 9.8000000000001E-5, Total: 0.003604
+[2015-12-31 23:02:07]framework.configuration.initialize.before: ini
+[2015-12-31 23:02:07]framework.configuration.initialize.after: ini
+[2015-12-31 23:02:07]framework.database.initialize.before: 
+[2015-12-31 23:02:07]framework.database.initialize.after: mysql
+[2015-12-31 23:02:07]framework.cache.initialize.before: 
+[2015-12-31 23:02:07]framework.cache.initialize.after: memcached
+[2015-12-31 23:02:07]framework.session.initialize.before: 
+[2015-12-31 23:02:07]framework.session.initialize.after: server
+[2015-12-31 23:02:07]framework.router.dispatch.before: home/index
+[2015-12-31 23:02:07]framework.router.dispatch.after: home/index, home, index
+[2015-12-31 23:02:07]framework.controller.construct.before: Home
+[2015-12-31 23:02:07]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 23:02:07]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2015-12-31 23:02:07]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 23:02:07]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2015-12-31 23:02:07]framework.controller.construct.after: Home
+Average: 0.0002805625, Longest: 0.00096600000000002, Shortest: 5.3000000000025E-5, Total: 0.004563
+[2015-12-31 23:02:13]framework.configuration.initialize.before: ini
+[2015-12-31 23:02:13]framework.configuration.initialize.after: ini
+[2015-12-31 23:02:13]framework.database.initialize.before: 
+[2015-12-31 23:02:13]framework.database.initialize.after: mysql
+[2015-12-31 23:02:13]framework.cache.initialize.before: 
+[2015-12-31 23:02:13]framework.cache.initialize.after: memcached
+[2015-12-31 23:02:13]framework.session.initialize.before: 
+[2015-12-31 23:02:13]framework.session.initialize.after: server
+[2015-12-31 23:02:13]framework.router.dispatch.before: public/assets/monokai
+[2015-12-31 23:02:13]framework.router.dispatch.after: public/assets/monokai, public, assets
+Average: 0.0003232, Longest: 0.00083700000000009, Shortest: 9.899999999996E-5, Total: 0.003551
+[2015-12-31 23:02:52]framework.configuration.initialize.before: ini
+[2015-12-31 23:02:52]framework.configuration.initialize.after: ini
+[2015-12-31 23:02:52]framework.database.initialize.before: 
+[2015-12-31 23:02:52]framework.database.initialize.after: mysql
+[2015-12-31 23:02:52]framework.cache.initialize.before: 
+[2015-12-31 23:02:52]framework.cache.initialize.after: memcached
+[2015-12-31 23:02:52]framework.session.initialize.before: 
+[2015-12-31 23:02:52]framework.session.initialize.after: server
+[2015-12-31 23:02:52]framework.router.dispatch.before: img/gallery/gallery-img-2-thumb
+[2015-12-31 23:02:52]framework.router.dispatch.after: img/gallery/gallery-img-2-thumb, img, gallery
+Average: 0.000315, Longest: 0.00082000000000004, Shortest: 9.7000000000014E-5, Total: 0.003443
+[2015-12-31 23:02:52]framework.configuration.initialize.before: ini
+[2015-12-31 23:02:52]framework.configuration.initialize.after: ini
+[2015-12-31 23:02:52]framework.database.initialize.before: 
+[2015-12-31 23:02:52]framework.database.initialize.after: mysql
+[2015-12-31 23:02:52]framework.cache.initialize.before: 
+[2015-12-31 23:02:52]framework.cache.initialize.after: memcached
+[2015-12-31 23:02:52]framework.session.initialize.before: 
+[2015-12-31 23:02:52]framework.session.initialize.after: server
+[2015-12-31 23:02:52]framework.router.dispatch.before: img/gallery/gallery-img-3-thumb
+[2015-12-31 23:02:52]framework.router.dispatch.after: img/gallery/gallery-img-3-thumb, img, gallery
+Average: 0.0003004, Longest: 0.00080000000000002, Shortest: 0.00015799999999999, Total: 0.003266
+[2015-12-31 23:02:52]framework.configuration.initialize.before: ini
+[2015-12-31 23:02:52]framework.configuration.initialize.after: ini
+[2015-12-31 23:02:52]framework.database.initialize.before: 
+[2015-12-31 23:02:52]framework.database.initialize.after: mysql
+[2015-12-31 23:02:52]framework.cache.initialize.before: 
+[2015-12-31 23:02:52]framework.cache.initialize.after: memcached
+[2015-12-31 23:02:52]framework.session.initialize.before: 
+[2015-12-31 23:02:52]framework.session.initialize.after: server
+[2015-12-31 23:02:52]framework.router.dispatch.before: img/gallery/gallery-img-4-thumb
+[2015-12-31 23:02:52]framework.router.dispatch.after: img/gallery/gallery-img-4-thumb, img, gallery
+Average: 0.00033909999999999, Longest: 0.00095000000000001, Shortest: 0.00010999999999994, Total: 0.003671

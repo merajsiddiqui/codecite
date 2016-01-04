@@ -1,0 +1,1450 @@
+[2016-01-04 00:47:02]framework.configuration.initialize.before: ini
+[2016-01-04 00:47:02]framework.configuration.initialize.after: ini
+[2016-01-04 00:47:02]framework.database.initialize.before: 
+[2016-01-04 00:47:02]framework.database.initialize.after: mysql
+[2016-01-04 00:47:02]framework.cache.initialize.before: 
+[2016-01-04 00:47:02]framework.cache.initialize.after: memcached
+[2016-01-04 00:47:02]framework.session.initialize.before: 
+[2016-01-04 00:47:02]framework.session.initialize.after: server
+[2016-01-04 00:47:02]framework.router.dispatch.before: robots
+[2016-01-04 00:47:02]framework.router.dispatch.after: robots, robots, index
+Average: 0.000628, Longest: 0.001703, Shortest: 0.000207, Total: 0.006695
+[2016-01-04 00:47:02]framework.configuration.initialize.before: ini
+[2016-01-04 00:47:02]framework.configuration.initialize.after: ini
+[2016-01-04 00:47:02]framework.database.initialize.before: 
+[2016-01-04 00:47:02]framework.database.initialize.after: mysql
+[2016-01-04 00:47:02]framework.cache.initialize.before: 
+[2016-01-04 00:47:02]framework.cache.initialize.after: memcached
+[2016-01-04 00:47:02]framework.session.initialize.before: 
+[2016-01-04 00:47:02]framework.session.initialize.after: server
+[2016-01-04 00:47:02]framework.router.dispatch.before: home/index
+[2016-01-04 00:47:02]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 00:47:02]framework.controller.construct.before: Home
+[2016-01-04 00:47:02]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 00:47:02]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 00:47:02]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 00:47:02]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 00:47:02]framework.controller.construct.after: Home
+Average: 0.0005501875, Longest: 0.001564, Shortest: 5.8000000000002E-5, Total: 0.008874
+[2016-01-04 02:06:58]framework.configuration.initialize.before: ini
+[2016-01-04 02:06:58]framework.configuration.initialize.after: ini
+[2016-01-04 02:06:58]framework.database.initialize.before: 
+[2016-01-04 02:06:58]framework.database.initialize.after: mysql
+[2016-01-04 02:06:58]framework.cache.initialize.before: 
+[2016-01-04 02:06:58]framework.cache.initialize.after: memcached
+[2016-01-04 02:06:58]framework.session.initialize.before: 
+[2016-01-04 02:06:58]framework.session.initialize.after: server
+[2016-01-04 02:06:58]framework.router.dispatch.before: home/index
+[2016-01-04 02:06:58]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 02:06:58]framework.controller.construct.before: Home
+[2016-01-04 02:06:58]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 02:06:58]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 02:06:58]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 02:06:58]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 02:06:58]framework.controller.construct.after: Home
+Average: 0.000550625, Longest: 0.001668, Shortest: 5.8000000000002E-5, Total: 0.0088820000000001
+[2016-01-04 02:07:04]framework.configuration.initialize.before: ini
+[2016-01-04 02:07:04]framework.configuration.initialize.after: ini
+[2016-01-04 02:07:04]framework.database.initialize.before: 
+[2016-01-04 02:07:04]framework.database.initialize.after: mysql
+[2016-01-04 02:07:04]framework.cache.initialize.before: 
+[2016-01-04 02:07:04]framework.cache.initialize.after: memcached
+[2016-01-04 02:07:04]framework.session.initialize.before: 
+[2016-01-04 02:07:04]framework.session.initialize.after: server
+[2016-01-04 02:07:04]framework.router.dispatch.before: contact
+[2016-01-04 02:07:04]framework.router.dispatch.after: contact, home, contact
+[2016-01-04 02:07:04]framework.controller.construct.before: Home
+[2016-01-04 02:07:04]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 02:07:04]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 02:07:04]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/contact.html
+[2016-01-04 02:07:04]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/contact.html
+[2016-01-04 02:07:04]framework.controller.construct.after: Home
+Average: 0.000538875, Longest: 0.001658, Shortest: 6.8000000000012E-5, Total: 0.008693
+[2016-01-04 02:07:14]framework.configuration.initialize.before: ini
+[2016-01-04 02:07:14]framework.configuration.initialize.after: ini
+[2016-01-04 02:07:14]framework.database.initialize.before: 
+[2016-01-04 02:07:14]framework.database.initialize.after: mysql
+[2016-01-04 02:07:14]framework.cache.initialize.before: 
+[2016-01-04 02:07:14]framework.cache.initialize.after: memcached
+[2016-01-04 02:07:14]framework.session.initialize.before: 
+[2016-01-04 02:07:14]framework.session.initialize.after: server
+[2016-01-04 02:07:14]framework.router.dispatch.before: home/index
+[2016-01-04 02:07:14]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 02:07:14]framework.controller.construct.before: Home
+[2016-01-04 02:07:14]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 02:07:14]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 02:07:14]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 02:07:14]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 02:07:14]framework.controller.construct.after: Home
+Average: 0.0005486875, Longest: 0.001593, Shortest: 6.8000000000068E-5, Total: 0.008926
+[2016-01-04 02:58:46]framework.configuration.initialize.before: ini
+[2016-01-04 02:58:46]framework.configuration.initialize.after: ini
+[2016-01-04 02:58:46]framework.database.initialize.before: 
+[2016-01-04 02:58:46]framework.database.initialize.after: mysql
+[2016-01-04 02:58:46]framework.cache.initialize.before: 
+[2016-01-04 02:58:46]framework.cache.initialize.after: memcached
+[2016-01-04 02:58:46]framework.session.initialize.before: 
+[2016-01-04 02:58:46]framework.session.initialize.after: server
+[2016-01-04 02:58:46]framework.router.dispatch.before: robots
+[2016-01-04 02:58:46]framework.router.dispatch.after: robots, robots, index
+Average: 0.00059009999999999, Longest: 0.0015890000000001, Shortest: 0.00010100000000002, Total: 0.006255
+[2016-01-04 02:58:47]framework.configuration.initialize.before: ini
+[2016-01-04 02:58:47]framework.configuration.initialize.after: ini
+[2016-01-04 02:58:47]framework.database.initialize.before: 
+[2016-01-04 02:58:47]framework.database.initialize.after: mysql
+[2016-01-04 02:58:47]framework.cache.initialize.before: 
+[2016-01-04 02:58:47]framework.cache.initialize.after: memcached
+[2016-01-04 02:58:47]framework.session.initialize.before: 
+[2016-01-04 02:58:47]framework.session.initialize.after: server
+[2016-01-04 02:58:47]framework.router.dispatch.before: home/index
+[2016-01-04 02:58:47]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 02:58:47]framework.controller.construct.before: Home
+[2016-01-04 02:58:47]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 02:58:47]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 02:58:47]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 02:58:47]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 02:58:47]framework.controller.construct.after: Home
+Average: 0.000522875, Longest: 0.001501, Shortest: 5.7000000000001E-5, Total: 0.008435
+[2016-01-04 03:34:42]framework.configuration.initialize.before: ini
+[2016-01-04 03:34:42]framework.configuration.initialize.after: ini
+[2016-01-04 03:34:42]framework.database.initialize.before: 
+[2016-01-04 03:34:42]framework.database.initialize.after: mysql
+[2016-01-04 03:34:42]framework.cache.initialize.before: 
+[2016-01-04 03:34:42]framework.cache.initialize.after: memcached
+[2016-01-04 03:34:42]framework.session.initialize.before: 
+[2016-01-04 03:34:42]framework.session.initialize.after: server
+[2016-01-04 03:34:42]framework.router.dispatch.before: home/index
+[2016-01-04 03:34:42]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 03:34:42]framework.controller.construct.before: Home
+[2016-01-04 03:34:42]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 03:34:42]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 03:34:42]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 03:34:42]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 03:34:42]framework.controller.construct.after: Home
+Average: 0.000579375, Longest: 0.001787, Shortest: 5.6E-5, Total: 0.00935
+[2016-01-04 04:12:21]framework.configuration.initialize.before: ini
+[2016-01-04 04:12:21]framework.configuration.initialize.after: ini
+[2016-01-04 04:12:21]framework.database.initialize.before: 
+[2016-01-04 04:12:21]framework.database.initialize.after: mysql
+[2016-01-04 04:12:21]framework.cache.initialize.before: 
+[2016-01-04 04:12:21]framework.cache.initialize.after: memcached
+[2016-01-04 04:12:21]framework.session.initialize.before: 
+[2016-01-04 04:12:21]framework.session.initialize.after: server
+[2016-01-04 04:12:21]framework.router.dispatch.before: robots
+[2016-01-04 04:12:21]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006639, Longest: 0.00171, Shortest: 0.00013500000000001, Total: 0.007063
+[2016-01-04 04:12:21]framework.configuration.initialize.before: ini
+[2016-01-04 04:12:21]framework.configuration.initialize.after: ini
+[2016-01-04 04:12:21]framework.database.initialize.before: 
+[2016-01-04 04:12:21]framework.database.initialize.after: mysql
+[2016-01-04 04:12:21]framework.cache.initialize.before: 
+[2016-01-04 04:12:21]framework.cache.initialize.after: memcached
+[2016-01-04 04:12:21]framework.session.initialize.before: 
+[2016-01-04 04:12:21]framework.session.initialize.after: server
+[2016-01-04 04:12:21]framework.router.dispatch.before: os/
+[2016-01-04 04:12:21]framework.router.dispatch.after: os/, os, index
+[2016-01-04 04:12:21]framework.controller.construct.before: Os
+[2016-01-04 04:12:21]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 04:12:21]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 04:12:21]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/index.html
+[2016-01-04 04:12:21]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/index.html
+[2016-01-04 04:12:21]framework.controller.construct.after: Os
+Average: 0.0005299375, Longest: 0.001587, Shortest: 5.6E-5, Total: 0.00855
+[2016-01-04 04:14:05]framework.configuration.initialize.before: ini
+[2016-01-04 04:14:05]framework.configuration.initialize.after: ini
+[2016-01-04 04:14:05]framework.database.initialize.before: 
+[2016-01-04 04:14:05]framework.database.initialize.after: mysql
+[2016-01-04 04:14:05]framework.cache.initialize.before: 
+[2016-01-04 04:14:05]framework.cache.initialize.after: memcached
+[2016-01-04 04:14:05]framework.session.initialize.before: 
+[2016-01-04 04:14:05]framework.session.initialize.after: server
+[2016-01-04 04:14:05]framework.router.dispatch.before: public/assets/monokai
+[2016-01-04 04:14:05]framework.router.dispatch.after: public/assets/monokai, public, assets
+Average: 0.0010162, Longest: 0.004945, Shortest: 0.00010300000000002, Total: 0.010531
+[2016-01-04 04:14:05]framework.configuration.initialize.before: ini
+[2016-01-04 04:14:05]framework.configuration.initialize.after: ini
+[2016-01-04 04:14:05]framework.database.initialize.before: 
+[2016-01-04 04:14:05]framework.database.initialize.after: mysql
+[2016-01-04 04:14:05]framework.cache.initialize.before: 
+[2016-01-04 04:14:05]framework.cache.initialize.after: memcached
+[2016-01-04 04:14:05]framework.session.initialize.before: 
+[2016-01-04 04:14:05]framework.session.initialize.after: server
+[2016-01-04 04:14:05]framework.router.dispatch.before: robots
+[2016-01-04 04:14:05]framework.router.dispatch.after: robots, robots, index
+Average: 0.001408, Longest: 0.005446, Shortest: 0.00010099999999996, Total: 0.014437
+[2016-01-04 04:41:51]framework.configuration.initialize.before: ini
+[2016-01-04 04:41:51]framework.configuration.initialize.after: ini
+[2016-01-04 04:41:51]framework.database.initialize.before: 
+[2016-01-04 04:41:51]framework.database.initialize.after: mysql
+[2016-01-04 04:41:51]framework.cache.initialize.before: 
+[2016-01-04 04:41:51]framework.cache.initialize.after: memcached
+[2016-01-04 04:41:51]framework.session.initialize.before: 
+[2016-01-04 04:41:51]framework.session.initialize.after: server
+[2016-01-04 04:41:51]framework.router.dispatch.before: robots
+[2016-01-04 04:41:51]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006304, Longest: 0.001539, Shortest: 0.00011499999999998, Total: 0.006736
+[2016-01-04 04:41:51]framework.configuration.initialize.before: ini
+[2016-01-04 04:41:51]framework.configuration.initialize.after: ini
+[2016-01-04 04:41:51]framework.database.initialize.before: 
+[2016-01-04 04:41:51]framework.database.initialize.after: mysql
+[2016-01-04 04:41:51]framework.cache.initialize.before: 
+[2016-01-04 04:41:51]framework.cache.initialize.after: memcached
+[2016-01-04 04:41:51]framework.session.initialize.before: 
+[2016-01-04 04:41:51]framework.session.initialize.after: server
+[2016-01-04 04:41:51]framework.router.dispatch.before: home/index
+[2016-01-04 04:41:51]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 04:41:51]framework.controller.construct.before: Home
+[2016-01-04 04:41:51]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 04:41:51]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 04:41:51]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 04:41:51]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 04:41:51]framework.controller.construct.after: Home
+Average: 0.0005499375, Longest: 0.00159, Shortest: 8.2000000000026E-5, Total: 0.008866
+[2016-01-04 05:16:57]framework.configuration.initialize.before: ini
+[2016-01-04 05:16:57]framework.configuration.initialize.after: ini
+[2016-01-04 05:16:57]framework.database.initialize.before: 
+[2016-01-04 05:16:57]framework.database.initialize.after: mysql
+[2016-01-04 05:16:57]framework.cache.initialize.before: 
+[2016-01-04 05:16:57]framework.cache.initialize.after: memcached
+[2016-01-04 05:16:57]framework.session.initialize.before: 
+[2016-01-04 05:16:57]framework.session.initialize.after: server
+[2016-01-04 05:16:57]framework.router.dispatch.before: robots
+[2016-01-04 05:16:57]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006606, Longest: 0.001763, Shortest: 0.00018399999999996, Total: 0.0069739999999999
+[2016-01-04 05:17:01]framework.configuration.initialize.before: ini
+[2016-01-04 05:17:01]framework.configuration.initialize.after: ini
+[2016-01-04 05:17:01]framework.database.initialize.before: 
+[2016-01-04 05:17:01]framework.database.initialize.after: mysql
+[2016-01-04 05:17:01]framework.cache.initialize.before: 
+[2016-01-04 05:17:01]framework.cache.initialize.after: memcached
+[2016-01-04 05:17:01]framework.session.initialize.before: 
+[2016-01-04 05:17:01]framework.session.initialize.after: server
+[2016-01-04 05:17:01]framework.router.dispatch.before: home/index
+[2016-01-04 05:17:01]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 05:17:01]framework.controller.construct.before: Home
+[2016-01-04 05:17:01]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 05:17:01]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 05:17:01]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 05:17:01]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 05:17:01]framework.controller.construct.after: Home
+Average: 0.00095775, Longest: 0.003664, Shortest: 5.6E-5, Total: 0.015423
+[2016-01-04 07:02:59]framework.configuration.initialize.before: ini
+[2016-01-04 07:02:59]framework.configuration.initialize.after: ini
+[2016-01-04 07:02:59]framework.database.initialize.before: 
+[2016-01-04 07:02:59]framework.database.initialize.after: mysql
+[2016-01-04 07:02:59]framework.cache.initialize.before: 
+[2016-01-04 07:02:59]framework.cache.initialize.after: memcached
+[2016-01-04 07:02:59]framework.session.initialize.before: 
+[2016-01-04 07:02:59]framework.session.initialize.after: server
+[2016-01-04 07:02:59]framework.router.dispatch.before: robots
+[2016-01-04 07:02:59]framework.router.dispatch.after: robots, robots, index
+Average: 0.00061369999999999, Longest: 0.0016389999999999, Shortest: 0.00012000000000001, Total: 0.006589
+[2016-01-04 07:03:05]framework.configuration.initialize.before: ini
+[2016-01-04 07:03:05]framework.configuration.initialize.after: ini
+[2016-01-04 07:03:05]framework.database.initialize.before: 
+[2016-01-04 07:03:05]framework.database.initialize.after: mysql
+[2016-01-04 07:03:05]framework.cache.initialize.before: 
+[2016-01-04 07:03:05]framework.cache.initialize.after: memcached
+[2016-01-04 07:03:05]framework.session.initialize.before: 
+[2016-01-04 07:03:05]framework.session.initialize.after: server
+[2016-01-04 07:03:05]framework.router.dispatch.before: home/index
+[2016-01-04 07:03:05]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 07:03:05]framework.controller.construct.before: Home
+[2016-01-04 07:03:05]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 07:03:05]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 07:03:05]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 07:03:05]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 07:03:05]framework.controller.construct.after: Home
+Average: 0.0005624375, Longest: 0.001834, Shortest: 5.1000000000023E-5, Total: 0.009074
+[2016-01-04 07:09:36]framework.configuration.initialize.before: ini
+[2016-01-04 07:09:36]framework.configuration.initialize.after: ini
+[2016-01-04 07:09:36]framework.database.initialize.before: 
+[2016-01-04 07:09:36]framework.database.initialize.after: mysql
+[2016-01-04 07:09:36]framework.cache.initialize.before: 
+[2016-01-04 07:09:36]framework.cache.initialize.after: memcached
+[2016-01-04 07:09:36]framework.session.initialize.before: 
+[2016-01-04 07:09:36]framework.session.initialize.after: server
+[2016-01-04 07:09:36]framework.router.dispatch.before: robots
+[2016-01-04 07:09:36]framework.router.dispatch.after: robots, robots, index
+Average: 0.00061, Longest: 0.001603, Shortest: 9.1999999999981E-5, Total: 0.006481
+[2016-01-04 07:30:47]framework.configuration.initialize.before: ini
+[2016-01-04 07:30:47]framework.configuration.initialize.after: ini
+[2016-01-04 07:30:47]framework.database.initialize.before: 
+[2016-01-04 07:30:47]framework.database.initialize.after: mysql
+[2016-01-04 07:30:47]framework.cache.initialize.before: 
+[2016-01-04 07:30:47]framework.cache.initialize.after: memcached
+[2016-01-04 07:30:47]framework.session.initialize.before: 
+[2016-01-04 07:30:47]framework.session.initialize.after: server
+[2016-01-04 07:30:47]framework.router.dispatch.before: presentation/ruby/rails/ajax_rails
+[2016-01-04 07:30:47]framework.router.dispatch.after: presentation/ruby/rails/ajax_rails, presentation, ruby
+Average: 0.0006219, Longest: 0.001561, Shortest: 0.000116, Total: 0.00662
+[2016-01-04 07:44:52]framework.configuration.initialize.before: ini
+[2016-01-04 07:44:52]framework.configuration.initialize.after: ini
+[2016-01-04 07:44:52]framework.database.initialize.before: 
+[2016-01-04 07:44:52]framework.database.initialize.after: mysql
+[2016-01-04 07:44:52]framework.cache.initialize.before: 
+[2016-01-04 07:44:52]framework.cache.initialize.after: memcached
+[2016-01-04 07:44:52]framework.session.initialize.before: 
+[2016-01-04 07:44:52]framework.session.initialize.after: server
+[2016-01-04 07:44:52]framework.router.dispatch.before: home/index
+[2016-01-04 07:44:52]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 07:44:52]framework.controller.construct.before: Home
+[2016-01-04 07:44:52]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 07:44:52]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 07:44:52]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 07:44:52]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 07:44:52]framework.controller.construct.after: Home
+Average: 0.0005304375, Longest: 0.001482, Shortest: 5.5000000000027E-5, Total: 0.008568
+[2016-01-04 07:44:56]framework.configuration.initialize.before: ini
+[2016-01-04 07:44:56]framework.configuration.initialize.after: ini
+[2016-01-04 07:44:56]framework.database.initialize.before: 
+[2016-01-04 07:44:56]framework.database.initialize.after: mysql
+[2016-01-04 07:44:56]framework.cache.initialize.before: 
+[2016-01-04 07:44:56]framework.cache.initialize.after: memcached
+[2016-01-04 07:44:56]framework.session.initialize.before: 
+[2016-01-04 07:44:56]framework.session.initialize.after: server
+[2016-01-04 07:44:56]framework.router.dispatch.before: home/index
+[2016-01-04 07:44:56]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 07:44:56]framework.controller.construct.before: Home
+[2016-01-04 07:44:56]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 07:44:56]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 07:44:56]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 07:44:56]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 07:44:56]framework.controller.construct.after: Home
+Average: 0.000550625, Longest: 0.00157, Shortest: 5.8000000000002E-5, Total: 0.008881
+[2016-01-04 08:18:03]framework.configuration.initialize.before: ini
+[2016-01-04 08:18:03]framework.configuration.initialize.after: ini
+[2016-01-04 08:18:03]framework.database.initialize.before: 
+[2016-01-04 08:18:03]framework.database.initialize.after: mysql
+[2016-01-04 08:18:03]framework.cache.initialize.before: 
+[2016-01-04 08:18:03]framework.cache.initialize.after: memcached
+[2016-01-04 08:18:03]framework.session.initialize.before: 
+[2016-01-04 08:18:03]framework.session.initialize.after: server
+[2016-01-04 08:18:03]framework.router.dispatch.before: home/index
+[2016-01-04 08:18:03]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 08:18:03]framework.controller.construct.before: Home
+[2016-01-04 08:18:03]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:18:03]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:18:03]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 08:18:03]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 08:18:03]framework.controller.construct.after: Home
+Average: 0.0005335625, Longest: 0.001687, Shortest: 5.6999999999974E-5, Total: 0.008607
+[2016-01-04 08:35:12]framework.configuration.initialize.before: ini
+[2016-01-04 08:35:12]framework.configuration.initialize.after: ini
+[2016-01-04 08:35:12]framework.database.initialize.before: 
+[2016-01-04 08:35:12]framework.database.initialize.after: mysql
+[2016-01-04 08:35:12]framework.cache.initialize.before: 
+[2016-01-04 08:35:12]framework.cache.initialize.after: memcached
+[2016-01-04 08:35:12]framework.session.initialize.before: 
+[2016-01-04 08:35:12]framework.session.initialize.after: server
+[2016-01-04 08:35:12]framework.router.dispatch.before: robots
+[2016-01-04 08:35:12]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006168, Longest: 0.0016620000000001, Shortest: 0.00010399999999999, Total: 0.006578
+[2016-01-04 08:35:12]framework.configuration.initialize.before: ini
+[2016-01-04 08:35:12]framework.configuration.initialize.after: ini
+[2016-01-04 08:35:12]framework.database.initialize.before: 
+[2016-01-04 08:35:12]framework.database.initialize.after: mysql
+[2016-01-04 08:35:12]framework.cache.initialize.before: 
+[2016-01-04 08:35:12]framework.cache.initialize.after: memcached
+[2016-01-04 08:35:12]framework.session.initialize.before: 
+[2016-01-04 08:35:12]framework.session.initialize.after: server
+[2016-01-04 08:35:12]framework.router.dispatch.before: home
+[2016-01-04 08:35:12]framework.router.dispatch.after: home, home, index
+[2016-01-04 08:35:12]framework.controller.construct.before: Home
+[2016-01-04 08:35:12]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:35:12]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:35:12]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 08:35:12]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 08:35:12]framework.controller.construct.after: Home
+Average: 0.0005149375, Longest: 0.001626, Shortest: 5.6000000000056E-5, Total: 0.008307
+[2016-01-04 08:35:19]framework.configuration.initialize.before: ini
+[2016-01-04 08:35:19]framework.configuration.initialize.after: ini
+[2016-01-04 08:35:19]framework.database.initialize.before: 
+[2016-01-04 08:35:19]framework.database.initialize.after: mysql
+[2016-01-04 08:35:19]framework.cache.initialize.before: 
+[2016-01-04 08:35:19]framework.cache.initialize.after: memcached
+[2016-01-04 08:35:19]framework.session.initialize.before: 
+[2016-01-04 08:35:19]framework.session.initialize.after: server
+[2016-01-04 08:35:19]framework.router.dispatch.before: about
+[2016-01-04 08:35:19]framework.router.dispatch.after: about, home, about
+[2016-01-04 08:35:19]framework.controller.construct.before: Home
+[2016-01-04 08:35:19]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:35:19]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:35:19]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/about.html
+[2016-01-04 08:35:19]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/about.html
+[2016-01-04 08:35:19]framework.controller.construct.after: Home
+Average: 0.000538625, Longest: 0.001511, Shortest: 5.2999999999997E-5, Total: 0.008698
+[2016-01-04 08:35:26]framework.configuration.initialize.before: ini
+[2016-01-04 08:35:26]framework.configuration.initialize.after: ini
+[2016-01-04 08:35:26]framework.database.initialize.before: 
+[2016-01-04 08:35:26]framework.database.initialize.after: mysql
+[2016-01-04 08:35:26]framework.cache.initialize.before: 
+[2016-01-04 08:35:26]framework.cache.initialize.after: memcached
+[2016-01-04 08:35:26]framework.session.initialize.before: 
+[2016-01-04 08:35:26]framework.session.initialize.after: server
+[2016-01-04 08:35:26]framework.router.dispatch.before: author
+[2016-01-04 08:35:26]framework.router.dispatch.after: author, home, login
+[2016-01-04 08:35:26]framework.controller.construct.before: Home
+[2016-01-04 08:35:26]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:35:26]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:35:26]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/login.html
+[2016-01-04 08:35:26]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/login.html
+[2016-01-04 08:35:26]framework.controller.construct.after: Home
+Average: 0.0005303125, Longest: 0.001598, Shortest: 6.1000000000089E-5, Total: 0.008557
+[2016-01-04 08:35:36]framework.configuration.initialize.before: ini
+[2016-01-04 08:35:36]framework.configuration.initialize.after: ini
+[2016-01-04 08:35:36]framework.database.initialize.before: 
+[2016-01-04 08:35:36]framework.database.initialize.after: mysql
+[2016-01-04 08:35:36]framework.cache.initialize.before: 
+[2016-01-04 08:35:36]framework.cache.initialize.after: memcached
+[2016-01-04 08:35:36]framework.session.initialize.before: 
+[2016-01-04 08:35:36]framework.session.initialize.after: server
+[2016-01-04 08:35:36]framework.router.dispatch.before: contact
+[2016-01-04 08:35:36]framework.router.dispatch.after: contact, home, contact
+[2016-01-04 08:35:36]framework.controller.construct.before: Home
+[2016-01-04 08:35:36]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:35:36]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:35:36]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/contact.html
+[2016-01-04 08:35:36]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/contact.html
+[2016-01-04 08:35:36]framework.controller.construct.after: Home
+Average: 0.0005236875, Longest: 0.001601, Shortest: 5.7999999999947E-5, Total: 0.008461
+[2016-01-04 08:35:45]framework.configuration.initialize.before: ini
+[2016-01-04 08:35:45]framework.configuration.initialize.after: ini
+[2016-01-04 08:35:45]framework.database.initialize.before: 
+[2016-01-04 08:35:45]framework.database.initialize.after: mysql
+[2016-01-04 08:35:45]framework.cache.initialize.before: 
+[2016-01-04 08:35:45]framework.cache.initialize.after: memcached
+[2016-01-04 08:35:45]framework.session.initialize.before: 
+[2016-01-04 08:35:45]framework.session.initialize.after: server
+[2016-01-04 08:35:45]framework.router.dispatch.before: robots
+[2016-01-04 08:35:45]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006423, Longest: 0.001771, Shortest: 0.00012100000000004, Total: 0.00678
+[2016-01-04 08:35:45]framework.configuration.initialize.before: ini
+[2016-01-04 08:35:45]framework.configuration.initialize.after: ini
+[2016-01-04 08:35:45]framework.database.initialize.before: 
+[2016-01-04 08:35:45]framework.database.initialize.after: mysql
+[2016-01-04 08:35:45]framework.cache.initialize.before: 
+[2016-01-04 08:35:45]framework.cache.initialize.after: memcached
+[2016-01-04 08:35:45]framework.session.initialize.before: 
+[2016-01-04 08:35:45]framework.session.initialize.after: server
+[2016-01-04 08:35:45]framework.router.dispatch.before: authors
+[2016-01-04 08:35:45]framework.router.dispatch.after: authors, authors, index
+Average: 0.00061220000000001, Longest: 0.001571, Shortest: 9.9000000000071E-5, Total: 0.006463
+[2016-01-04 08:35:55]framework.configuration.initialize.before: ini
+[2016-01-04 08:35:55]framework.configuration.initialize.after: ini
+[2016-01-04 08:35:55]framework.database.initialize.before: 
+[2016-01-04 08:35:55]framework.database.initialize.after: mysql
+[2016-01-04 08:35:55]framework.cache.initialize.before: 
+[2016-01-04 08:35:55]framework.cache.initialize.after: memcached
+[2016-01-04 08:35:55]framework.session.initialize.before: 
+[2016-01-04 08:35:55]framework.session.initialize.after: server
+[2016-01-04 08:35:55]framework.router.dispatch.before: gallery
+[2016-01-04 08:35:55]framework.router.dispatch.after: gallery, gallery, index
+Average: 0.0005815, Longest: 0.001509, Shortest: 0.00010900000000003, Total: 0.006178
+[2016-01-04 08:36:06]framework.configuration.initialize.before: ini
+[2016-01-04 08:36:06]framework.configuration.initialize.after: ini
+[2016-01-04 08:36:06]framework.database.initialize.before: 
+[2016-01-04 08:36:06]framework.database.initialize.after: mysql
+[2016-01-04 08:36:06]framework.cache.initialize.before: 
+[2016-01-04 08:36:06]framework.cache.initialize.after: memcached
+[2016-01-04 08:36:06]framework.session.initialize.before: 
+[2016-01-04 08:36:06]framework.session.initialize.after: server
+[2016-01-04 08:36:06]framework.router.dispatch.before: technews
+[2016-01-04 08:36:06]framework.router.dispatch.after: technews, technews, index
+Average: 0.0005793, Longest: 0.001514, Shortest: 9.899999999996E-5, Total: 0.006168
+[2016-01-04 08:36:16]framework.configuration.initialize.before: ini
+[2016-01-04 08:36:16]framework.configuration.initialize.after: ini
+[2016-01-04 08:36:16]framework.database.initialize.before: 
+[2016-01-04 08:36:16]framework.database.initialize.after: mysql
+[2016-01-04 08:36:16]framework.cache.initialize.before: 
+[2016-01-04 08:36:16]framework.cache.initialize.after: memcached
+[2016-01-04 08:36:16]framework.session.initialize.before: 
+[2016-01-04 08:36:16]framework.session.initialize.after: server
+[2016-01-04 08:36:16]framework.router.dispatch.before: db/
+[2016-01-04 08:36:16]framework.router.dispatch.after: db/, db, index
+[2016-01-04 08:36:16]framework.controller.construct.before: Db
+[2016-01-04 08:36:16]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:36:16]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:36:16]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/index.html
+[2016-01-04 08:36:16]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/index.html
+[2016-01-04 08:36:16]framework.controller.construct.after: Db
+Average: 0.000526, Longest: 0.001658, Shortest: 6.600000000001E-5, Total: 0.008482
+[2016-01-04 08:36:22]framework.configuration.initialize.before: ini
+[2016-01-04 08:36:22]framework.configuration.initialize.after: ini
+[2016-01-04 08:36:22]framework.database.initialize.before: 
+[2016-01-04 08:36:22]framework.database.initialize.after: mysql
+[2016-01-04 08:36:22]framework.cache.initialize.before: 
+[2016-01-04 08:36:22]framework.cache.initialize.after: memcached
+[2016-01-04 08:36:22]framework.session.initialize.before: 
+[2016-01-04 08:36:22]framework.session.initialize.after: server
+[2016-01-04 08:36:22]framework.router.dispatch.before: os/
+[2016-01-04 08:36:22]framework.router.dispatch.after: os/, os, index
+[2016-01-04 08:36:22]framework.controller.construct.before: Os
+[2016-01-04 08:36:22]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:36:22]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:36:22]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/index.html
+[2016-01-04 08:36:22]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/index.html
+[2016-01-04 08:36:22]framework.controller.construct.after: Os
+Average: 0.000518625, Longest: 0.00161, Shortest: 5.6999999999974E-5, Total: 0.008364
+[2016-01-04 08:36:32]framework.configuration.initialize.before: ini
+[2016-01-04 08:36:32]framework.configuration.initialize.after: ini
+[2016-01-04 08:36:32]framework.database.initialize.before: 
+[2016-01-04 08:36:32]framework.database.initialize.after: mysql
+[2016-01-04 08:36:32]framework.cache.initialize.before: 
+[2016-01-04 08:36:32]framework.cache.initialize.after: memcached
+[2016-01-04 08:36:32]framework.session.initialize.before: 
+[2016-01-04 08:36:32]framework.session.initialize.after: server
+[2016-01-04 08:36:32]framework.router.dispatch.before: privacypolicy
+[2016-01-04 08:36:32]framework.router.dispatch.after: privacypolicy, privacypolicy, index
+Average: 0.0005894, Longest: 0.001557, Shortest: 0.000122, Total: 0.006242
+[2016-01-04 08:36:50]framework.configuration.initialize.before: ini
+[2016-01-04 08:36:50]framework.configuration.initialize.after: ini
+[2016-01-04 08:36:50]framework.database.initialize.before: 
+[2016-01-04 08:36:50]framework.database.initialize.after: mysql
+[2016-01-04 08:36:50]framework.cache.initialize.before: 
+[2016-01-04 08:36:50]framework.cache.initialize.after: memcached
+[2016-01-04 08:36:50]framework.session.initialize.before: 
+[2016-01-04 08:36:50]framework.session.initialize.after: server
+[2016-01-04 08:36:50]framework.router.dispatch.before: robots
+[2016-01-04 08:36:50]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006177, Longest: 0.001638, Shortest: 0.000143, Total: 0.006561
+[2016-01-04 08:37:12]framework.configuration.initialize.before: ini
+[2016-01-04 08:37:12]framework.configuration.initialize.after: ini
+[2016-01-04 08:37:12]framework.database.initialize.before: 
+[2016-01-04 08:37:12]framework.database.initialize.after: mysql
+[2016-01-04 08:37:12]framework.cache.initialize.before: 
+[2016-01-04 08:37:12]framework.cache.initialize.after: memcached
+[2016-01-04 08:37:12]framework.session.initialize.before: 
+[2016-01-04 08:37:12]framework.session.initialize.after: server
+[2016-01-04 08:37:12]framework.router.dispatch.before: os/mac
+[2016-01-04 08:37:12]framework.router.dispatch.after: os/mac, os, mac
+[2016-01-04 08:37:12]framework.controller.construct.before: Os
+[2016-01-04 08:37:12]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:12]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:12]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/mac.html
+[2016-01-04 08:37:12]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/mac.html
+[2016-01-04 08:37:12]framework.controller.construct.after: Os
+Average: 0.0005265, Longest: 0.001533, Shortest: 5.4999999999916E-5, Total: 0.0084920000000001
+[2016-01-04 08:37:18]framework.configuration.initialize.before: ini
+[2016-01-04 08:37:18]framework.configuration.initialize.after: ini
+[2016-01-04 08:37:18]framework.database.initialize.before: 
+[2016-01-04 08:37:18]framework.database.initialize.after: mysql
+[2016-01-04 08:37:18]framework.cache.initialize.before: 
+[2016-01-04 08:37:18]framework.cache.initialize.after: memcached
+[2016-01-04 08:37:18]framework.session.initialize.before: 
+[2016-01-04 08:37:18]framework.session.initialize.after: server
+[2016-01-04 08:37:18]framework.router.dispatch.before: tools/
+[2016-01-04 08:37:18]framework.router.dispatch.after: tools/, tools, index
+Average: 0.0006423, Longest: 0.001572, Shortest: 0.00010399999999999, Total: 0.006857
+[2016-01-04 08:37:28]framework.configuration.initialize.before: ini
+[2016-01-04 08:37:28]framework.configuration.initialize.after: ini
+[2016-01-04 08:37:28]framework.database.initialize.before: 
+[2016-01-04 08:37:28]framework.database.initialize.after: mysql
+[2016-01-04 08:37:28]framework.cache.initialize.before: 
+[2016-01-04 08:37:28]framework.cache.initialize.after: memcached
+[2016-01-04 08:37:28]framework.session.initialize.before: 
+[2016-01-04 08:37:28]framework.session.initialize.after: server
+[2016-01-04 08:37:28]framework.router.dispatch.before: db/other
+[2016-01-04 08:37:28]framework.router.dispatch.after: db/other, db, other
+[2016-01-04 08:37:28]framework.controller.construct.before: Db
+[2016-01-04 08:37:28]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:28]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:28]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/other.html
+[2016-01-04 08:37:28]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/other.html
+[2016-01-04 08:37:28]framework.controller.construct.after: Db
+Average: 0.0005494375, Longest: 0.001652, Shortest: 5.6E-5, Total: 0.009172
+[2016-01-04 08:37:38]framework.configuration.initialize.before: ini
+[2016-01-04 08:37:38]framework.configuration.initialize.after: ini
+[2016-01-04 08:37:38]framework.database.initialize.before: 
+[2016-01-04 08:37:38]framework.database.initialize.after: mysql
+[2016-01-04 08:37:38]framework.cache.initialize.before: 
+[2016-01-04 08:37:38]framework.cache.initialize.after: memcached
+[2016-01-04 08:37:38]framework.session.initialize.before: 
+[2016-01-04 08:37:38]framework.session.initialize.after: server
+[2016-01-04 08:37:38]framework.router.dispatch.before: os/linux
+[2016-01-04 08:37:38]framework.router.dispatch.after: os/linux, os, linux
+[2016-01-04 08:37:38]framework.controller.construct.before: Os
+[2016-01-04 08:37:38]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:38]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:38]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/linux.html
+[2016-01-04 08:37:38]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/linux.html
+[2016-01-04 08:37:38]framework.controller.construct.after: Os
+Average: 0.0005425, Longest: 0.00158, Shortest: 6.0999999999978E-5, Total: 0.008746
+[2016-01-04 08:37:46]framework.configuration.initialize.before: ini
+[2016-01-04 08:37:46]framework.configuration.initialize.after: ini
+[2016-01-04 08:37:46]framework.database.initialize.before: 
+[2016-01-04 08:37:46]framework.database.initialize.after: mysql
+[2016-01-04 08:37:46]framework.cache.initialize.before: 
+[2016-01-04 08:37:46]framework.cache.initialize.after: memcached
+[2016-01-04 08:37:46]framework.session.initialize.before: 
+[2016-01-04 08:37:46]framework.session.initialize.after: server
+[2016-01-04 08:37:46]framework.router.dispatch.before: db/mssql
+[2016-01-04 08:37:46]framework.router.dispatch.after: db/mssql, db, mssql
+[2016-01-04 08:37:46]framework.controller.construct.before: Db
+[2016-01-04 08:37:46]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:46]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:46]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/mssql.html
+[2016-01-04 08:37:46]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/mssql.html
+[2016-01-04 08:37:46]framework.controller.construct.after: Db
+Average: 0.0005615, Longest: 0.001722, Shortest: 6.9000000000041E-5, Total: 0.009352
+[2016-01-04 08:37:55]framework.configuration.initialize.before: ini
+[2016-01-04 08:37:55]framework.configuration.initialize.after: ini
+[2016-01-04 08:37:55]framework.database.initialize.before: 
+[2016-01-04 08:37:55]framework.database.initialize.after: mysql
+[2016-01-04 08:37:55]framework.cache.initialize.before: 
+[2016-01-04 08:37:55]framework.cache.initialize.after: memcached
+[2016-01-04 08:37:55]framework.session.initialize.before: 
+[2016-01-04 08:37:55]framework.session.initialize.after: server
+[2016-01-04 08:37:55]framework.router.dispatch.before: robots
+[2016-01-04 08:37:55]framework.router.dispatch.after: robots, robots, index
+Average: 0.00058830000000001, Longest: 0.00144, Shortest: 0.00010200000000005, Total: 0.0062450000000001
+[2016-01-04 08:37:56]framework.configuration.initialize.before: ini
+[2016-01-04 08:37:56]framework.configuration.initialize.after: ini
+[2016-01-04 08:37:56]framework.database.initialize.before: 
+[2016-01-04 08:37:56]framework.database.initialize.after: mysql
+[2016-01-04 08:37:56]framework.cache.initialize.before: 
+[2016-01-04 08:37:56]framework.cache.initialize.after: memcached
+[2016-01-04 08:37:56]framework.session.initialize.before: 
+[2016-01-04 08:37:56]framework.session.initialize.after: server
+[2016-01-04 08:37:56]framework.router.dispatch.before: db/mysql
+[2016-01-04 08:37:56]framework.router.dispatch.after: db/mysql, db, mysql
+[2016-01-04 08:37:56]framework.controller.construct.before: Db
+[2016-01-04 08:37:56]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:56]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:37:56]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/mysql.html
+[2016-01-04 08:37:56]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/mysql.html
+[2016-01-04 08:37:56]framework.controller.construct.after: Db
+Average: 0.000515, Longest: 0.001525, Shortest: 5.6E-5, Total: 0.008319
+[2016-01-04 08:38:04]framework.configuration.initialize.before: ini
+[2016-01-04 08:38:04]framework.configuration.initialize.after: ini
+[2016-01-04 08:38:04]framework.database.initialize.before: 
+[2016-01-04 08:38:04]framework.database.initialize.after: mysql
+[2016-01-04 08:38:04]framework.cache.initialize.before: 
+[2016-01-04 08:38:04]framework.cache.initialize.after: memcached
+[2016-01-04 08:38:04]framework.session.initialize.before: 
+[2016-01-04 08:38:04]framework.session.initialize.after: server
+[2016-01-04 08:38:04]framework.router.dispatch.before: os/others
+[2016-01-04 08:38:04]framework.router.dispatch.after: os/others, os, others
+[2016-01-04 08:38:04]framework.controller.construct.before: Os
+[2016-01-04 08:38:04]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:04]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:04]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/others.html
+[2016-01-04 08:38:04]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/others.html
+[2016-01-04 08:38:04]framework.controller.construct.after: Os
+Average: 0.0005493125, Longest: 0.001561, Shortest: 6.6999999999928E-5, Total: 0.009193
+[2016-01-04 08:38:15]framework.configuration.initialize.before: ini
+[2016-01-04 08:38:15]framework.configuration.initialize.after: ini
+[2016-01-04 08:38:15]framework.database.initialize.before: 
+[2016-01-04 08:38:15]framework.database.initialize.after: mysql
+[2016-01-04 08:38:15]framework.cache.initialize.before: 
+[2016-01-04 08:38:15]framework.cache.initialize.after: memcached
+[2016-01-04 08:38:15]framework.session.initialize.before: 
+[2016-01-04 08:38:15]framework.session.initialize.after: server
+[2016-01-04 08:38:15]framework.router.dispatch.before: languages/
+[2016-01-04 08:38:15]framework.router.dispatch.after: languages/, languages, index
+[2016-01-04 08:38:15]framework.controller.construct.before: Languages
+[2016-01-04 08:38:15]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:15]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:15]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/index.html
+[2016-01-04 08:38:15]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/index.html
+[2016-01-04 08:38:15]framework.controller.construct.after: Languages
+Average: 0.000542125, Longest: 0.001536, Shortest: 5.6E-5, Total: 0.008741
+[2016-01-04 08:38:23]framework.configuration.initialize.before: ini
+[2016-01-04 08:38:23]framework.configuration.initialize.after: ini
+[2016-01-04 08:38:23]framework.database.initialize.before: 
+[2016-01-04 08:38:23]framework.database.initialize.after: mysql
+[2016-01-04 08:38:23]framework.cache.initialize.before: 
+[2016-01-04 08:38:23]framework.cache.initialize.after: memcached
+[2016-01-04 08:38:23]framework.session.initialize.before: 
+[2016-01-04 08:38:23]framework.session.initialize.after: server
+[2016-01-04 08:38:23]framework.router.dispatch.before: db/mongodb
+[2016-01-04 08:38:23]framework.router.dispatch.after: db/mongodb, db, mongodb
+[2016-01-04 08:38:23]framework.controller.construct.before: Db
+[2016-01-04 08:38:23]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:23]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:23]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/mongodb.html
+[2016-01-04 08:38:23]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/mongodb.html
+[2016-01-04 08:38:23]framework.controller.construct.after: Db
+Average: 0.0005541875, Longest: 0.001704, Shortest: 6.7999999999957E-5, Total: 0.008933
+[2016-01-04 08:38:33]framework.configuration.initialize.before: ini
+[2016-01-04 08:38:33]framework.configuration.initialize.after: ini
+[2016-01-04 08:38:33]framework.database.initialize.before: 
+[2016-01-04 08:38:33]framework.database.initialize.after: mysql
+[2016-01-04 08:38:33]framework.cache.initialize.before: 
+[2016-01-04 08:38:33]framework.cache.initialize.after: memcached
+[2016-01-04 08:38:33]framework.session.initialize.before: 
+[2016-01-04 08:38:33]framework.session.initialize.after: server
+[2016-01-04 08:38:33]framework.router.dispatch.before: os/windows
+[2016-01-04 08:38:33]framework.router.dispatch.after: os/windows, os, windows
+[2016-01-04 08:38:33]framework.controller.construct.before: Os
+[2016-01-04 08:38:33]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:33]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:33]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/windows.html
+[2016-01-04 08:38:33]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/windows.html
+[2016-01-04 08:38:33]framework.controller.construct.after: Os
+Average: 0.0005586875, Longest: 0.001643, Shortest: 7.3E-5, Total: 0.009006
+[2016-01-04 08:38:42]framework.configuration.initialize.before: ini
+[2016-01-04 08:38:42]framework.configuration.initialize.after: ini
+[2016-01-04 08:38:42]framework.database.initialize.before: 
+[2016-01-04 08:38:42]framework.database.initialize.after: mysql
+[2016-01-04 08:38:42]framework.cache.initialize.before: 
+[2016-01-04 08:38:42]framework.cache.initialize.after: memcached
+[2016-01-04 08:38:42]framework.session.initialize.before: 
+[2016-01-04 08:38:42]framework.session.initialize.after: server
+[2016-01-04 08:38:42]framework.router.dispatch.before: tools/nmap
+[2016-01-04 08:38:42]framework.router.dispatch.after: tools/nmap, tools, nmap
+Average: 0.0005967, Longest: 0.001512, Shortest: 9.9999999999989E-5, Total: 0.00633
+[2016-01-04 08:38:52]framework.configuration.initialize.before: ini
+[2016-01-04 08:38:52]framework.configuration.initialize.after: ini
+[2016-01-04 08:38:52]framework.database.initialize.before: 
+[2016-01-04 08:38:52]framework.database.initialize.after: mysql
+[2016-01-04 08:38:52]framework.cache.initialize.before: 
+[2016-01-04 08:38:52]framework.cache.initialize.after: memcached
+[2016-01-04 08:38:52]framework.session.initialize.before: 
+[2016-01-04 08:38:52]framework.session.initialize.after: server
+[2016-01-04 08:38:52]framework.router.dispatch.before: db/postgres
+[2016-01-04 08:38:52]framework.router.dispatch.after: db/postgres, db, postgres
+[2016-01-04 08:38:52]framework.controller.construct.before: Db
+[2016-01-04 08:38:52]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:52]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:38:52]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/postgres.html
+[2016-01-04 08:38:52]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/postgres.html
+[2016-01-04 08:38:52]framework.controller.construct.after: Db
+Average: 0.000541, Longest: 0.0016470000000001, Shortest: 5.6000000000056E-5, Total: 0.0087349999999999
+[2016-01-04 08:39:00]framework.configuration.initialize.before: ini
+[2016-01-04 08:39:00]framework.configuration.initialize.after: ini
+[2016-01-04 08:39:00]framework.database.initialize.before: 
+[2016-01-04 08:39:00]framework.database.initialize.after: mysql
+[2016-01-04 08:39:00]framework.cache.initialize.before: 
+[2016-01-04 08:39:00]framework.cache.initialize.after: memcached
+[2016-01-04 08:39:00]framework.session.initialize.before: 
+[2016-01-04 08:39:00]framework.session.initialize.after: server
+[2016-01-04 08:39:00]framework.router.dispatch.before: robots
+[2016-01-04 08:39:00]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006055, Longest: 0.001557, Shortest: 0.00017500000000004, Total: 0.0064040000000001
+[2016-01-04 08:39:00]framework.configuration.initialize.before: ini
+[2016-01-04 08:39:00]framework.configuration.initialize.after: ini
+[2016-01-04 08:39:00]framework.database.initialize.before: 
+[2016-01-04 08:39:00]framework.database.initialize.after: mysql
+[2016-01-04 08:39:00]framework.cache.initialize.before: 
+[2016-01-04 08:39:00]framework.cache.initialize.after: memcached
+[2016-01-04 08:39:00]framework.session.initialize.before: 
+[2016-01-04 08:39:00]framework.session.initialize.after: server
+[2016-01-04 08:39:00]framework.router.dispatch.before: languages/c
+[2016-01-04 08:39:00]framework.router.dispatch.after: languages/c, languages, c
+[2016-01-04 08:39:00]framework.controller.construct.before: Languages
+[2016-01-04 08:39:00]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:39:00]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:39:00]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/c.html
+[2016-01-04 08:39:00]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/c.html
+[2016-01-04 08:39:00]framework.controller.construct.after: Languages
+Average: 0.0005528125, Longest: 0.0015890000000001, Shortest: 7.1000000000043E-5, Total: 0.009215
+[2016-01-04 08:39:11]framework.configuration.initialize.before: ini
+[2016-01-04 08:39:11]framework.configuration.initialize.after: ini
+[2016-01-04 08:39:11]framework.database.initialize.before: 
+[2016-01-04 08:39:11]framework.database.initialize.after: mysql
+[2016-01-04 08:39:11]framework.cache.initialize.before: 
+[2016-01-04 08:39:11]framework.cache.initialize.after: memcached
+[2016-01-04 08:39:11]framework.session.initialize.before: 
+[2016-01-04 08:39:11]framework.session.initialize.after: server
+[2016-01-04 08:39:11]framework.router.dispatch.before: languages/js
+[2016-01-04 08:39:11]framework.router.dispatch.after: languages/js, languages, js
+[2016-01-04 08:39:11]framework.controller.construct.before: Languages
+[2016-01-04 08:39:11]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:39:11]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:39:11]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/js.html
+[2016-01-04 08:39:11]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/js.html
+[2016-01-04 08:39:11]framework.controller.construct.after: Languages
+Average: 0.0005121875, Longest: 0.001506, Shortest: 5.7000000000001E-5, Total: 0.008588
+[2016-01-04 08:39:21]framework.configuration.initialize.before: ini
+[2016-01-04 08:39:21]framework.configuration.initialize.after: ini
+[2016-01-04 08:39:21]framework.database.initialize.before: 
+[2016-01-04 08:39:21]framework.database.initialize.after: mysql
+[2016-01-04 08:39:21]framework.cache.initialize.before: 
+[2016-01-04 08:39:21]framework.cache.initialize.after: memcached
+[2016-01-04 08:39:21]framework.session.initialize.before: 
+[2016-01-04 08:39:21]framework.session.initialize.after: server
+[2016-01-04 08:39:21]framework.router.dispatch.before: languages/php
+[2016-01-04 08:39:21]framework.router.dispatch.after: languages/php, languages, php
+[2016-01-04 08:39:21]framework.controller.construct.before: Languages
+[2016-01-04 08:39:21]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:39:21]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:39:21]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/php.html
+[2016-01-04 08:39:21]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/php.html
+[2016-01-04 08:39:21]framework.controller.construct.after: Languages
+Average: 0.000523, Longest: 0.001527, Shortest: 5.5000000000027E-5, Total: 0.008439
+[2016-01-04 08:40:57]framework.configuration.initialize.before: ini
+[2016-01-04 08:40:57]framework.configuration.initialize.after: ini
+[2016-01-04 08:40:57]framework.database.initialize.before: 
+[2016-01-04 08:40:57]framework.database.initialize.after: mysql
+[2016-01-04 08:40:57]framework.cache.initialize.before: 
+[2016-01-04 08:40:57]framework.cache.initialize.after: memcached
+[2016-01-04 08:40:57]framework.session.initialize.before: 
+[2016-01-04 08:40:57]framework.session.initialize.after: server
+[2016-01-04 08:40:57]framework.router.dispatch.before: robots
+[2016-01-04 08:40:57]framework.router.dispatch.after: robots, robots, index
+Average: 0.001423, Longest: 0.005819, Shortest: 9.5000000000012E-5, Total: 0.014619
+[2016-01-04 08:40:57]framework.configuration.initialize.before: ini
+[2016-01-04 08:40:57]framework.configuration.initialize.after: ini
+[2016-01-04 08:40:57]framework.database.initialize.before: 
+[2016-01-04 08:40:57]framework.database.initialize.after: mysql
+[2016-01-04 08:40:57]framework.cache.initialize.before: 
+[2016-01-04 08:40:57]framework.cache.initialize.after: memcached
+[2016-01-04 08:40:57]framework.session.initialize.before: 
+[2016-01-04 08:40:57]framework.session.initialize.after: server
+[2016-01-04 08:40:57]framework.router.dispatch.before: languages/ccpp
+[2016-01-04 08:40:57]framework.router.dispatch.after: languages/ccpp, languages, ccpp
+[2016-01-04 08:40:57]framework.controller.construct.before: Languages
+[2016-01-04 08:40:57]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:40:57]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:40:57]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/ccpp.html
+[2016-01-04 08:40:57]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/ccpp.html
+[2016-01-04 08:40:57]framework.controller.construct.after: Languages
+Average: 0.0008959375, Longest: 0.004899, Shortest: 5.7000000000029E-5, Total: 0.014432
+[2016-01-04 08:42:13]framework.configuration.initialize.before: ini
+[2016-01-04 08:42:13]framework.configuration.initialize.after: ini
+[2016-01-04 08:42:13]framework.database.initialize.before: 
+[2016-01-04 08:42:13]framework.database.initialize.after: mysql
+[2016-01-04 08:42:13]framework.cache.initialize.before: 
+[2016-01-04 08:42:13]framework.cache.initialize.after: memcached
+[2016-01-04 08:42:13]framework.session.initialize.before: 
+[2016-01-04 08:42:13]framework.session.initialize.after: server
+[2016-01-04 08:42:13]framework.router.dispatch.before: robots
+[2016-01-04 08:42:13]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006156, Longest: 0.001629, Shortest: 0.00010300000000002, Total: 0.006578
+[2016-01-04 08:42:13]framework.configuration.initialize.before: ini
+[2016-01-04 08:42:13]framework.configuration.initialize.after: ini
+[2016-01-04 08:42:13]framework.database.initialize.before: 
+[2016-01-04 08:42:13]framework.database.initialize.after: mysql
+[2016-01-04 08:42:13]framework.cache.initialize.before: 
+[2016-01-04 08:42:13]framework.cache.initialize.after: memcached
+[2016-01-04 08:42:13]framework.session.initialize.before: 
+[2016-01-04 08:42:13]framework.session.initialize.after: server
+[2016-01-04 08:42:13]framework.router.dispatch.before: tools/wireshark
+[2016-01-04 08:42:13]framework.router.dispatch.after: tools/wireshark, tools, wireshark
+Average: 0.0005971, Longest: 0.001496, Shortest: 0.00010299999999996, Total: 0.006326
+[2016-01-04 08:43:49]framework.configuration.initialize.before: ini
+[2016-01-04 08:43:49]framework.configuration.initialize.after: ini
+[2016-01-04 08:43:49]framework.database.initialize.before: 
+[2016-01-04 08:43:49]framework.database.initialize.after: mysql
+[2016-01-04 08:43:49]framework.cache.initialize.before: 
+[2016-01-04 08:43:49]framework.cache.initialize.after: memcached
+[2016-01-04 08:43:49]framework.session.initialize.before: 
+[2016-01-04 08:43:49]framework.session.initialize.after: server
+[2016-01-04 08:43:49]framework.router.dispatch.before: robots
+[2016-01-04 08:43:49]framework.router.dispatch.after: robots, robots, index
+Average: 0.0014043, Longest: 0.005591, Shortest: 0.00010899999999991, Total: 0.014452
+[2016-01-04 08:43:49]framework.configuration.initialize.before: ini
+[2016-01-04 08:43:49]framework.configuration.initialize.after: ini
+[2016-01-04 08:43:49]framework.database.initialize.before: 
+[2016-01-04 08:43:49]framework.database.initialize.after: mysql
+[2016-01-04 08:43:49]framework.cache.initialize.before: 
+[2016-01-04 08:43:49]framework.cache.initialize.after: memcached
+[2016-01-04 08:43:49]framework.session.initialize.before: 
+[2016-01-04 08:43:49]framework.session.initialize.after: server
+[2016-01-04 08:43:49]framework.router.dispatch.before: languages/python
+[2016-01-04 08:43:49]framework.router.dispatch.after: languages/python, languages, python
+[2016-01-04 08:43:49]framework.controller.construct.before: Languages
+[2016-01-04 08:43:49]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:43:49]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 08:43:49]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/python.html
+[2016-01-04 08:43:49]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/python.html
+[2016-01-04 08:43:49]framework.controller.construct.after: Languages
+Average: 0.00084675, Longest: 0.0048130000000001, Shortest: 5.3999999999998E-5, Total: 0.013923
+[2016-01-04 09:30:29]framework.configuration.initialize.before: ini
+[2016-01-04 09:30:29]framework.configuration.initialize.after: ini
+[2016-01-04 09:30:29]framework.database.initialize.before: 
+[2016-01-04 09:30:29]framework.database.initialize.after: mysql
+[2016-01-04 09:30:29]framework.cache.initialize.before: 
+[2016-01-04 09:30:29]framework.cache.initialize.after: memcached
+[2016-01-04 09:30:29]framework.session.initialize.before: 
+[2016-01-04 09:30:29]framework.session.initialize.after: server
+[2016-01-04 09:30:29]framework.router.dispatch.before: home/index
+[2016-01-04 09:30:29]framework.router.dispatch.after: home/index, home, index
+[2016-01-04 09:30:29]framework.controller.construct.before: Home
+[2016-01-04 09:30:29]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 09:30:29]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 09:30:29]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 09:30:29]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/home/index.html
+[2016-01-04 09:30:29]framework.controller.construct.after: Home
+Average: 0.000529375, Longest: 0.001556, Shortest: 5.6000000000056E-5, Total: 0.0085379999999999
+[2016-01-04 10:31:02]framework.configuration.initialize.before: ini
+[2016-01-04 10:31:02]framework.configuration.initialize.after: ini
+[2016-01-04 10:31:02]framework.database.initialize.before: 
+[2016-01-04 10:31:02]framework.database.initialize.after: mysql
+[2016-01-04 10:31:02]framework.cache.initialize.before: 
+[2016-01-04 10:31:02]framework.cache.initialize.after: memcached
+[2016-01-04 10:31:02]framework.session.initialize.before: 
+[2016-01-04 10:31:02]framework.session.initialize.after: server
+[2016-01-04 10:31:02]framework.router.dispatch.before: robots
+[2016-01-04 10:31:02]framework.router.dispatch.after: robots, robots, index
+Average: 0.0005871, Longest: 0.00149, Shortest: 9.9000000000071E-5, Total: 0.006224
+[2016-01-04 10:31:03]framework.configuration.initialize.before: ini
+[2016-01-04 10:31:03]framework.configuration.initialize.after: ini
+[2016-01-04 10:31:03]framework.database.initialize.before: 
+[2016-01-04 10:31:03]framework.database.initialize.after: mysql
+[2016-01-04 10:31:03]framework.cache.initialize.before: 
+[2016-01-04 10:31:03]framework.cache.initialize.after: memcached
+[2016-01-04 10:31:03]framework.session.initialize.before: 
+[2016-01-04 10:31:03]framework.session.initialize.after: server
+[2016-01-04 10:31:03]framework.router.dispatch.before: print/pres/java/concurrency
+[2016-01-04 10:31:03]framework.router.dispatch.after: print/pres/java/concurrency, print, pres
+Average: 0.000549, Longest: 0.001475, Shortest: 9.3999999999983E-5, Total: 0.005831
+[2016-01-04 14:35:09]framework.configuration.initialize.before: ini
+[2016-01-04 14:35:09]framework.configuration.initialize.after: ini
+[2016-01-04 14:35:09]framework.database.initialize.before: 
+[2016-01-04 14:35:09]framework.database.initialize.after: mysql
+[2016-01-04 14:35:09]framework.cache.initialize.before: 
+[2016-01-04 14:35:09]framework.cache.initialize.after: memcached
+[2016-01-04 14:35:09]framework.session.initialize.before: 
+[2016-01-04 14:35:09]framework.session.initialize.after: server
+[2016-01-04 14:35:09]framework.router.dispatch.before: robots
+[2016-01-04 14:35:09]framework.router.dispatch.after: robots, robots, index
+Average: 0.00062920000000001, Longest: 0.001676, Shortest: 9.300000000001E-5, Total: 0.00666
+[2016-01-04 14:35:10]framework.configuration.initialize.before: ini
+[2016-01-04 14:35:10]framework.configuration.initialize.after: ini
+[2016-01-04 14:35:10]framework.database.initialize.before: 
+[2016-01-04 14:35:10]framework.database.initialize.after: mysql
+[2016-01-04 14:35:10]framework.cache.initialize.before: 
+[2016-01-04 14:35:10]framework.cache.initialize.after: memcached
+[2016-01-04 14:35:10]framework.session.initialize.before: 
+[2016-01-04 14:35:10]framework.session.initialize.after: server
+[2016-01-04 14:35:10]framework.router.dispatch.before: os/home
+[2016-01-04 14:35:10]framework.router.dispatch.after: os/home, os, home
+[2016-01-04 14:35:10]framework.controller.construct.before: Os
+[2016-01-04 14:35:10]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:35:10]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:35:10]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/home.html
+[2016-01-04 14:35:10]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/home.html
+[2016-01-04 14:35:10]framework.controller.construct.after: Os
+Average: 0.000542375, Longest: 0.001647, Shortest: 5.3999999999998E-5, Total: 0.009071
+[2016-01-04 14:35:30]framework.configuration.initialize.before: ini
+[2016-01-04 14:35:30]framework.configuration.initialize.after: ini
+[2016-01-04 14:35:30]framework.database.initialize.before: 
+[2016-01-04 14:35:30]framework.database.initialize.after: mysql
+[2016-01-04 14:35:30]framework.cache.initialize.before: 
+[2016-01-04 14:35:30]framework.cache.initialize.after: memcached
+[2016-01-04 14:35:30]framework.session.initialize.before: 
+[2016-01-04 14:35:30]framework.session.initialize.after: server
+[2016-01-04 14:35:30]framework.router.dispatch.before: db/home
+[2016-01-04 14:35:30]framework.router.dispatch.after: db/home, db, home
+[2016-01-04 14:35:30]framework.controller.construct.before: Db
+[2016-01-04 14:35:30]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:35:30]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:35:30]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/home.html
+[2016-01-04 14:35:30]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/home.html
+[2016-01-04 14:35:30]framework.controller.construct.after: Db
+Average: 0.0004941875, Longest: 0.001434, Shortest: 4.9999999999994E-5, Total: 0.008312
+[2016-01-04 14:35:40]framework.configuration.initialize.before: ini
+[2016-01-04 14:35:40]framework.configuration.initialize.after: ini
+[2016-01-04 14:35:40]framework.database.initialize.before: 
+[2016-01-04 14:35:40]framework.database.initialize.after: mysql
+[2016-01-04 14:35:40]framework.cache.initialize.before: 
+[2016-01-04 14:35:40]framework.cache.initialize.after: memcached
+[2016-01-04 14:35:40]framework.session.initialize.before: 
+[2016-01-04 14:35:40]framework.session.initialize.after: server
+[2016-01-04 14:35:40]framework.router.dispatch.before: os/authors
+[2016-01-04 14:35:40]framework.router.dispatch.after: os/authors, os, authors
+[2016-01-04 14:35:40]framework.controller.construct.before: Os
+[2016-01-04 14:35:40]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:35:40]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:35:40]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/authors.html
+[2016-01-04 14:35:40]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/authors.html
+[2016-01-04 14:35:40]framework.controller.construct.after: Os
+Average: 0.0005165625, Longest: 0.001522, Shortest: 5.299999999997E-5, Total: 0.008657
+[2016-01-04 14:35:48]framework.configuration.initialize.before: ini
+[2016-01-04 14:35:48]framework.configuration.initialize.after: ini
+[2016-01-04 14:35:48]framework.database.initialize.before: 
+[2016-01-04 14:35:48]framework.database.initialize.after: mysql
+[2016-01-04 14:35:48]framework.cache.initialize.before: 
+[2016-01-04 14:35:48]framework.cache.initialize.after: memcached
+[2016-01-04 14:35:48]framework.session.initialize.before: 
+[2016-01-04 14:35:48]framework.session.initialize.after: server
+[2016-01-04 14:35:48]framework.router.dispatch.before: robots
+[2016-01-04 14:35:48]framework.router.dispatch.after: robots, robots, index
+Average: 0.0005969, Longest: 0.001565, Shortest: 0.00010099999999991, Total: 0.006327
+[2016-01-04 14:35:51]framework.configuration.initialize.before: ini
+[2016-01-04 14:35:51]framework.configuration.initialize.after: ini
+[2016-01-04 14:35:51]framework.database.initialize.before: 
+[2016-01-04 14:35:51]framework.database.initialize.after: mysql
+[2016-01-04 14:35:51]framework.cache.initialize.before: 
+[2016-01-04 14:35:51]framework.cache.initialize.after: memcached
+[2016-01-04 14:35:51]framework.session.initialize.before: 
+[2016-01-04 14:35:51]framework.session.initialize.after: server
+[2016-01-04 14:35:51]framework.router.dispatch.before: db/authors
+[2016-01-04 14:35:51]framework.router.dispatch.after: db/authors, db, authors
+[2016-01-04 14:35:51]framework.controller.construct.before: Db
+[2016-01-04 14:35:51]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:35:51]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:35:51]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/authors.html
+[2016-01-04 14:35:51]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/authors.html
+[2016-01-04 14:35:51]framework.controller.construct.after: Db
+Average: 0.0005505, Longest: 0.001769, Shortest: 7.1000000000002E-5, Total: 0.009211
+[2016-01-04 14:36:01]framework.configuration.initialize.before: ini
+[2016-01-04 14:36:01]framework.configuration.initialize.after: ini
+[2016-01-04 14:36:01]framework.database.initialize.before: 
+[2016-01-04 14:36:01]framework.database.initialize.after: mysql
+[2016-01-04 14:36:01]framework.cache.initialize.before: 
+[2016-01-04 14:36:01]framework.cache.initialize.after: memcached
+[2016-01-04 14:36:01]framework.session.initialize.before: 
+[2016-01-04 14:36:01]framework.session.initialize.after: server
+[2016-01-04 14:36:01]framework.router.dispatch.before: os/gallery
+[2016-01-04 14:36:01]framework.router.dispatch.after: os/gallery, os, gallery
+[2016-01-04 14:36:01]framework.controller.construct.before: Os
+[2016-01-04 14:36:01]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:01]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:01]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/gallery.html
+[2016-01-04 14:36:01]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/gallery.html
+[2016-01-04 14:36:01]framework.controller.construct.after: Os
+Average: 0.0013069375, Longest: 0.005922, Shortest: 5.6E-5, Total: 0.021331
+[2016-01-04 14:36:11]framework.configuration.initialize.before: ini
+[2016-01-04 14:36:11]framework.configuration.initialize.after: ini
+[2016-01-04 14:36:11]framework.database.initialize.before: 
+[2016-01-04 14:36:11]framework.database.initialize.after: mysql
+[2016-01-04 14:36:11]framework.cache.initialize.before: 
+[2016-01-04 14:36:11]framework.cache.initialize.after: memcached
+[2016-01-04 14:36:11]framework.session.initialize.before: 
+[2016-01-04 14:36:11]framework.session.initialize.after: server
+[2016-01-04 14:36:11]framework.router.dispatch.before: os/contact
+[2016-01-04 14:36:11]framework.router.dispatch.after: os/contact, os, contact
+[2016-01-04 14:36:11]framework.controller.construct.before: Os
+[2016-01-04 14:36:11]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:11]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:11]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/contact.html
+[2016-01-04 14:36:11]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/contact.html
+[2016-01-04 14:36:11]framework.controller.construct.after: Os
+Average: 0.0005244375, Longest: 0.001573, Shortest: 5.3999999999998E-5, Total: 0.008884
+[2016-01-04 14:36:21]framework.configuration.initialize.before: ini
+[2016-01-04 14:36:21]framework.configuration.initialize.after: ini
+[2016-01-04 14:36:21]framework.database.initialize.before: 
+[2016-01-04 14:36:21]framework.database.initialize.after: mysql
+[2016-01-04 14:36:21]framework.cache.initialize.before: 
+[2016-01-04 14:36:21]framework.cache.initialize.after: memcached
+[2016-01-04 14:36:21]framework.session.initialize.before: 
+[2016-01-04 14:36:21]framework.session.initialize.after: server
+[2016-01-04 14:36:21]framework.router.dispatch.before: db/contact
+[2016-01-04 14:36:21]framework.router.dispatch.after: db/contact, db, contact
+[2016-01-04 14:36:21]framework.controller.construct.before: Db
+[2016-01-04 14:36:21]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:21]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:21]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/contact.html
+[2016-01-04 14:36:21]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/contact.html
+[2016-01-04 14:36:21]framework.controller.construct.after: Db
+Average: 0.0005459375, Longest: 0.001637, Shortest: 5.299999999997E-5, Total: 0.009132
+[2016-01-04 14:36:32]framework.configuration.initialize.before: ini
+[2016-01-04 14:36:32]framework.configuration.initialize.after: ini
+[2016-01-04 14:36:32]framework.database.initialize.before: 
+[2016-01-04 14:36:32]framework.database.initialize.after: mysql
+[2016-01-04 14:36:32]framework.cache.initialize.before: 
+[2016-01-04 14:36:32]framework.cache.initialize.after: memcached
+[2016-01-04 14:36:32]framework.session.initialize.before: 
+[2016-01-04 14:36:32]framework.session.initialize.after: server
+[2016-01-04 14:36:32]framework.router.dispatch.before: db/gallery
+[2016-01-04 14:36:32]framework.router.dispatch.after: db/gallery, db, gallery
+[2016-01-04 14:36:32]framework.controller.construct.before: Db
+[2016-01-04 14:36:32]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:32]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:32]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/gallery.html
+[2016-01-04 14:36:32]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/gallery.html
+[2016-01-04 14:36:32]framework.controller.construct.after: Db
+Average: 0.00055825, Longest: 0.001789, Shortest: 5.7999999999999E-5, Total: 0.009359
+[2016-01-04 14:36:42]framework.configuration.initialize.before: ini
+[2016-01-04 14:36:42]framework.configuration.initialize.after: ini
+[2016-01-04 14:36:42]framework.database.initialize.before: 
+[2016-01-04 14:36:42]framework.database.initialize.after: mysql
+[2016-01-04 14:36:42]framework.cache.initialize.before: 
+[2016-01-04 14:36:42]framework.cache.initialize.after: memcached
+[2016-01-04 14:36:42]framework.session.initialize.before: 
+[2016-01-04 14:36:42]framework.session.initialize.after: server
+[2016-01-04 14:36:42]framework.router.dispatch.before: os/technews
+[2016-01-04 14:36:42]framework.router.dispatch.after: os/technews, os, technews
+[2016-01-04 14:36:42]framework.controller.construct.before: Os
+[2016-01-04 14:36:42]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:42]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:42]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/technews.html
+[2016-01-04 14:36:42]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/technews.html
+[2016-01-04 14:36:42]framework.controller.construct.after: Os
+Average: 0.0005149375, Longest: 0.0015, Shortest: 5.3999999999998E-5, Total: 0.008649
+[2016-01-04 14:36:52]framework.configuration.initialize.before: ini
+[2016-01-04 14:36:52]framework.configuration.initialize.after: ini
+[2016-01-04 14:36:52]framework.database.initialize.before: 
+[2016-01-04 14:36:52]framework.database.initialize.after: mysql
+[2016-01-04 14:36:52]framework.cache.initialize.before: 
+[2016-01-04 14:36:52]framework.cache.initialize.after: memcached
+[2016-01-04 14:36:52]framework.session.initialize.before: 
+[2016-01-04 14:36:52]framework.session.initialize.after: server
+[2016-01-04 14:36:52]framework.router.dispatch.before: db/technews
+[2016-01-04 14:36:52]framework.router.dispatch.after: db/technews, db, technews
+[2016-01-04 14:36:52]framework.controller.construct.before: Db
+[2016-01-04 14:36:52]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:52]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:36:52]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/technews.html
+[2016-01-04 14:36:52]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/technews.html
+[2016-01-04 14:36:52]framework.controller.construct.after: Db
+Average: 0.0005228125, Longest: 0.001544, Shortest: 5.5000000000027E-5, Total: 0.008817
+[2016-01-04 14:36:52]framework.configuration.initialize.before: ini
+[2016-01-04 14:36:52]framework.configuration.initialize.after: ini
+[2016-01-04 14:36:52]framework.database.initialize.before: 
+[2016-01-04 14:36:52]framework.database.initialize.after: mysql
+[2016-01-04 14:36:52]framework.cache.initialize.before: 
+[2016-01-04 14:36:52]framework.cache.initialize.after: memcached
+[2016-01-04 14:36:52]framework.session.initialize.before: 
+[2016-01-04 14:36:52]framework.session.initialize.after: server
+[2016-01-04 14:36:52]framework.router.dispatch.before: robots
+[2016-01-04 14:36:52]framework.router.dispatch.after: robots, robots, index
+Average: 0.00058429999999999, Longest: 0.001471, Shortest: 0.00010399999999999, Total: 0.0062019999999999
+[2016-01-04 14:37:03]framework.configuration.initialize.before: ini
+[2016-01-04 14:37:03]framework.configuration.initialize.after: ini
+[2016-01-04 14:37:03]framework.database.initialize.before: 
+[2016-01-04 14:37:03]framework.database.initialize.after: mysql
+[2016-01-04 14:37:03]framework.cache.initialize.before: 
+[2016-01-04 14:37:03]framework.cache.initialize.after: memcached
+[2016-01-04 14:37:03]framework.session.initialize.before: 
+[2016-01-04 14:37:03]framework.session.initialize.after: server
+[2016-01-04 14:37:03]framework.router.dispatch.before: languages/home
+[2016-01-04 14:37:03]framework.router.dispatch.after: languages/home, languages, home
+[2016-01-04 14:37:03]framework.controller.construct.before: Languages
+[2016-01-04 14:37:03]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:03]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:03]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/home.html
+[2016-01-04 14:37:03]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/home.html
+[2016-01-04 14:37:03]framework.controller.construct.after: Languages
+Average: 0.000549125, Longest: 0.001633, Shortest: 6.600000000001E-5, Total: 0.009234
+[2016-01-04 14:37:14]framework.configuration.initialize.before: ini
+[2016-01-04 14:37:14]framework.configuration.initialize.after: ini
+[2016-01-04 14:37:14]framework.database.initialize.before: 
+[2016-01-04 14:37:14]framework.database.initialize.after: mysql
+[2016-01-04 14:37:14]framework.cache.initialize.before: 
+[2016-01-04 14:37:14]framework.cache.initialize.after: memcached
+[2016-01-04 14:37:14]framework.session.initialize.before: 
+[2016-01-04 14:37:14]framework.session.initialize.after: server
+[2016-01-04 14:37:14]framework.router.dispatch.before: db/privacypolicy
+[2016-01-04 14:37:14]framework.router.dispatch.after: db/privacypolicy, db, privacypolicy
+[2016-01-04 14:37:14]framework.controller.construct.before: Db
+[2016-01-04 14:37:14]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:14]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:14]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/privacypolicy.html
+[2016-01-04 14:37:14]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/privacypolicy.html
+[2016-01-04 14:37:14]framework.controller.construct.after: Db
+Average: 0.0005338125, Longest: 0.001519, Shortest: 5.8000000000002E-5, Total: 0.008953
+[2016-01-04 14:37:24]framework.configuration.initialize.before: ini
+[2016-01-04 14:37:24]framework.configuration.initialize.after: ini
+[2016-01-04 14:37:24]framework.database.initialize.before: 
+[2016-01-04 14:37:24]framework.database.initialize.after: mysql
+[2016-01-04 14:37:24]framework.cache.initialize.before: 
+[2016-01-04 14:37:24]framework.cache.initialize.after: memcached
+[2016-01-04 14:37:24]framework.session.initialize.before: 
+[2016-01-04 14:37:24]framework.session.initialize.after: server
+[2016-01-04 14:37:24]framework.router.dispatch.before: os/privacypolicy
+[2016-01-04 14:37:24]framework.router.dispatch.after: os/privacypolicy, os, privacypolicy
+[2016-01-04 14:37:24]framework.controller.construct.before: Os
+[2016-01-04 14:37:24]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:24]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:24]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/privacypolicy.html
+[2016-01-04 14:37:24]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/privacypolicy.html
+[2016-01-04 14:37:24]framework.controller.construct.after: Os
+Average: 0.0005351875, Longest: 0.001583, Shortest: 6.5999999999899E-5, Total: 0.0089950000000001
+[2016-01-04 14:37:35]framework.configuration.initialize.before: ini
+[2016-01-04 14:37:35]framework.configuration.initialize.after: ini
+[2016-01-04 14:37:35]framework.database.initialize.before: 
+[2016-01-04 14:37:35]framework.database.initialize.after: mysql
+[2016-01-04 14:37:35]framework.cache.initialize.before: 
+[2016-01-04 14:37:35]framework.cache.initialize.after: memcached
+[2016-01-04 14:37:35]framework.session.initialize.before: 
+[2016-01-04 14:37:35]framework.session.initialize.after: server
+[2016-01-04 14:37:35]framework.router.dispatch.before: languages/authors
+[2016-01-04 14:37:35]framework.router.dispatch.after: languages/authors, languages, authors
+[2016-01-04 14:37:35]framework.controller.construct.before: Languages
+[2016-01-04 14:37:35]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:35]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:35]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/authors.html
+[2016-01-04 14:37:35]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/authors.html
+[2016-01-04 14:37:35]framework.controller.construct.after: Languages
+Average: 0.0005494375, Longest: 0.001611, Shortest: 5.0999999999968E-5, Total: 0.00917
+[2016-01-04 14:37:45]framework.configuration.initialize.before: ini
+[2016-01-04 14:37:45]framework.configuration.initialize.after: ini
+[2016-01-04 14:37:45]framework.database.initialize.before: 
+[2016-01-04 14:37:45]framework.database.initialize.after: mysql
+[2016-01-04 14:37:45]framework.cache.initialize.before: 
+[2016-01-04 14:37:45]framework.cache.initialize.after: memcached
+[2016-01-04 14:37:45]framework.session.initialize.before: 
+[2016-01-04 14:37:45]framework.session.initialize.after: server
+[2016-01-04 14:37:45]framework.router.dispatch.before: languages/gallery
+[2016-01-04 14:37:45]framework.router.dispatch.after: languages/gallery, languages, gallery
+[2016-01-04 14:37:45]framework.controller.construct.before: Languages
+[2016-01-04 14:37:45]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:45]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:45]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/gallery.html
+[2016-01-04 14:37:45]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/gallery.html
+[2016-01-04 14:37:45]framework.controller.construct.after: Languages
+Average: 0.00052375, Longest: 0.001653, Shortest: 5.6000000000056E-5, Total: 0.008755
+[2016-01-04 14:37:56]framework.configuration.initialize.before: ini
+[2016-01-04 14:37:56]framework.configuration.initialize.after: ini
+[2016-01-04 14:37:56]framework.database.initialize.before: 
+[2016-01-04 14:37:56]framework.database.initialize.after: mysql
+[2016-01-04 14:37:56]framework.cache.initialize.before: 
+[2016-01-04 14:37:56]framework.cache.initialize.after: memcached
+[2016-01-04 14:37:56]framework.session.initialize.before: 
+[2016-01-04 14:37:56]framework.session.initialize.after: server
+[2016-01-04 14:37:56]framework.router.dispatch.before: languages/contact
+[2016-01-04 14:37:56]framework.router.dispatch.after: languages/contact, languages, contact
+[2016-01-04 14:37:56]framework.controller.construct.before: Languages
+[2016-01-04 14:37:56]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:56]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:37:56]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/contact.html
+[2016-01-04 14:37:56]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/contact.html
+[2016-01-04 14:37:56]framework.controller.construct.after: Languages
+Average: 0.000541375, Longest: 0.001735, Shortest: 9.7999999999931E-5, Total: 0.0090479999999999
+[2016-01-04 14:37:56]framework.configuration.initialize.before: ini
+[2016-01-04 14:37:56]framework.configuration.initialize.after: ini
+[2016-01-04 14:37:56]framework.database.initialize.before: 
+[2016-01-04 14:37:56]framework.database.initialize.after: mysql
+[2016-01-04 14:37:56]framework.cache.initialize.before: 
+[2016-01-04 14:37:56]framework.cache.initialize.after: memcached
+[2016-01-04 14:37:56]framework.session.initialize.before: 
+[2016-01-04 14:37:56]framework.session.initialize.after: server
+[2016-01-04 14:37:56]framework.router.dispatch.before: robots
+[2016-01-04 14:37:56]framework.router.dispatch.after: robots, robots, index
+Average: 0.0005884, Longest: 0.001593, Shortest: 9.1000000000063E-5, Total: 0.006208
+[2016-01-04 14:38:07]framework.configuration.initialize.before: ini
+[2016-01-04 14:38:07]framework.configuration.initialize.after: ini
+[2016-01-04 14:38:07]framework.database.initialize.before: 
+[2016-01-04 14:38:07]framework.database.initialize.after: mysql
+[2016-01-04 14:38:07]framework.cache.initialize.before: 
+[2016-01-04 14:38:07]framework.cache.initialize.after: memcached
+[2016-01-04 14:38:07]framework.session.initialize.before: 
+[2016-01-04 14:38:07]framework.session.initialize.after: server
+[2016-01-04 14:38:07]framework.router.dispatch.before: languages/technews
+[2016-01-04 14:38:07]framework.router.dispatch.after: languages/technews, languages, technews
+[2016-01-04 14:38:07]framework.controller.construct.before: Languages
+[2016-01-04 14:38:07]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:07]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:07]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/technews.html
+[2016-01-04 14:38:07]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/technews.html
+[2016-01-04 14:38:07]framework.controller.construct.after: Languages
+Average: 0.000550125, Longest: 0.001561, Shortest: 6.4999999999982E-5, Total: 0.009227
+[2016-01-04 14:38:17]framework.configuration.initialize.before: ini
+[2016-01-04 14:38:17]framework.configuration.initialize.after: ini
+[2016-01-04 14:38:17]framework.database.initialize.before: 
+[2016-01-04 14:38:17]framework.database.initialize.after: mysql
+[2016-01-04 14:38:17]framework.cache.initialize.before: 
+[2016-01-04 14:38:17]framework.cache.initialize.after: memcached
+[2016-01-04 14:38:17]framework.session.initialize.before: 
+[2016-01-04 14:38:17]framework.session.initialize.after: server
+[2016-01-04 14:38:17]framework.router.dispatch.before: os/blog-style3
+[2016-01-04 14:38:17]framework.router.dispatch.after: os/blog-style3, os, blog-style3
+[2016-01-04 14:38:17]framework.controller.construct.before: Os
+[2016-01-04 14:38:17]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:17]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:17]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/blog-style3.html
+[2016-01-04 14:38:17]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/blog-style3.html
+[2016-01-04 14:38:17]framework.controller.construct.after: Os
+Average: 0.000545625, Longest: 0.0017440000000001, Shortest: 5.7000000000085E-5, Total: 0.009159
+[2016-01-04 14:38:28]framework.configuration.initialize.before: ini
+[2016-01-04 14:38:28]framework.configuration.initialize.after: ini
+[2016-01-04 14:38:28]framework.database.initialize.before: 
+[2016-01-04 14:38:28]framework.database.initialize.after: mysql
+[2016-01-04 14:38:28]framework.cache.initialize.before: 
+[2016-01-04 14:38:28]framework.cache.initialize.after: memcached
+[2016-01-04 14:38:28]framework.session.initialize.before: 
+[2016-01-04 14:38:28]framework.session.initialize.after: server
+[2016-01-04 14:38:28]framework.router.dispatch.before: db/blog-style4
+[2016-01-04 14:38:28]framework.router.dispatch.after: db/blog-style4, db, blog-style4
+[2016-01-04 14:38:28]framework.controller.construct.before: Db
+[2016-01-04 14:38:28]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:28]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:28]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/blog-style4.html
+[2016-01-04 14:38:28]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/blog-style4.html
+[2016-01-04 14:38:28]framework.controller.construct.after: Db
+Average: 0.0005305625, Longest: 0.0015849999999999, Shortest: 5.4999999999916E-5, Total: 0.008942
+[2016-01-04 14:38:39]framework.configuration.initialize.before: ini
+[2016-01-04 14:38:39]framework.configuration.initialize.after: ini
+[2016-01-04 14:38:39]framework.database.initialize.before: 
+[2016-01-04 14:38:39]framework.database.initialize.after: mysql
+[2016-01-04 14:38:39]framework.cache.initialize.before: 
+[2016-01-04 14:38:39]framework.cache.initialize.after: memcached
+[2016-01-04 14:38:39]framework.session.initialize.before: 
+[2016-01-04 14:38:39]framework.session.initialize.after: server
+[2016-01-04 14:38:39]framework.router.dispatch.before: os/blog-style4
+[2016-01-04 14:38:39]framework.router.dispatch.after: os/blog-style4, os, blog-style4
+[2016-01-04 14:38:39]framework.controller.construct.before: Os
+[2016-01-04 14:38:39]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:39]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:39]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/blog-style4.html
+[2016-01-04 14:38:39]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/blog-style4.html
+[2016-01-04 14:38:39]framework.controller.construct.after: Os
+Average: 0.000545375, Longest: 0.001696, Shortest: 5.6E-5, Total: 0.00911
+[2016-01-04 14:38:50]framework.configuration.initialize.before: ini
+[2016-01-04 14:38:50]framework.configuration.initialize.after: ini
+[2016-01-04 14:38:50]framework.database.initialize.before: 
+[2016-01-04 14:38:50]framework.database.initialize.after: mysql
+[2016-01-04 14:38:50]framework.cache.initialize.before: 
+[2016-01-04 14:38:50]framework.cache.initialize.after: memcached
+[2016-01-04 14:38:50]framework.session.initialize.before: 
+[2016-01-04 14:38:50]framework.session.initialize.after: server
+[2016-01-04 14:38:50]framework.router.dispatch.before: db/blog-single
+[2016-01-04 14:38:50]framework.router.dispatch.after: db/blog-single, db, blog-single
+[2016-01-04 14:38:50]framework.controller.construct.before: Db
+[2016-01-04 14:38:50]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:50]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:38:50]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/blog-single.html
+[2016-01-04 14:38:50]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/blog-single.html
+[2016-01-04 14:38:50]framework.controller.construct.after: Db
+Average: 0.0005375625, Longest: 0.001618, Shortest: 5.3999999999998E-5, Total: 0.009057
+[2016-01-04 14:39:00]framework.configuration.initialize.before: ini
+[2016-01-04 14:39:00]framework.configuration.initialize.after: ini
+[2016-01-04 14:39:00]framework.database.initialize.before: 
+[2016-01-04 14:39:00]framework.database.initialize.after: mysql
+[2016-01-04 14:39:00]framework.cache.initialize.before: 
+[2016-01-04 14:39:00]framework.cache.initialize.after: memcached
+[2016-01-04 14:39:00]framework.session.initialize.before: 
+[2016-01-04 14:39:00]framework.session.initialize.after: server
+[2016-01-04 14:39:00]framework.router.dispatch.before: os/blog-single
+[2016-01-04 14:39:00]framework.router.dispatch.after: os/blog-single, os, blog-single
+[2016-01-04 14:39:00]framework.controller.construct.before: Os
+[2016-01-04 14:39:00]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:39:00]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:39:00]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/os/blog-single.html
+[2016-01-04 14:39:00]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/os/blog-single.html
+[2016-01-04 14:39:00]framework.controller.construct.after: Os
+Average: 0.0005334375, Longest: 0.001495, Shortest: 5.8000000000002E-5, Total: 0.0089520000000001
+[2016-01-04 14:39:00]framework.configuration.initialize.before: ini
+[2016-01-04 14:39:00]framework.configuration.initialize.after: ini
+[2016-01-04 14:39:00]framework.database.initialize.before: 
+[2016-01-04 14:39:00]framework.database.initialize.after: mysql
+[2016-01-04 14:39:00]framework.cache.initialize.before: 
+[2016-01-04 14:39:00]framework.cache.initialize.after: memcached
+[2016-01-04 14:39:00]framework.session.initialize.before: 
+[2016-01-04 14:39:00]framework.session.initialize.after: server
+[2016-01-04 14:39:00]framework.router.dispatch.before: robots
+[2016-01-04 14:39:00]framework.router.dispatch.after: robots, robots, index
+Average: 0.000583, Longest: 0.001491, Shortest: 0.00010199999999994, Total: 0.006201
+[2016-01-04 14:39:11]framework.configuration.initialize.before: ini
+[2016-01-04 14:39:11]framework.configuration.initialize.after: ini
+[2016-01-04 14:39:11]framework.database.initialize.before: 
+[2016-01-04 14:39:11]framework.database.initialize.after: mysql
+[2016-01-04 14:39:11]framework.cache.initialize.before: 
+[2016-01-04 14:39:11]framework.cache.initialize.after: memcached
+[2016-01-04 14:39:11]framework.session.initialize.before: 
+[2016-01-04 14:39:11]framework.session.initialize.after: server
+[2016-01-04 14:39:11]framework.router.dispatch.before: db/blog-style3
+[2016-01-04 14:39:11]framework.router.dispatch.after: db/blog-style3, db, blog-style3
+[2016-01-04 14:39:11]framework.controller.construct.before: Db
+[2016-01-04 14:39:11]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:39:11]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:39:11]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/db/blog-style3.html
+[2016-01-04 14:39:11]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/db/blog-style3.html
+[2016-01-04 14:39:11]framework.controller.construct.after: Db
+Average: 0.000526625, Longest: 0.0015890000000001, Shortest: 5.2000000000052E-5, Total: 0.0088360000000001
+[2016-01-04 14:39:22]framework.configuration.initialize.before: ini
+[2016-01-04 14:39:22]framework.configuration.initialize.after: ini
+[2016-01-04 14:39:22]framework.database.initialize.before: 
+[2016-01-04 14:39:22]framework.database.initialize.after: mysql
+[2016-01-04 14:39:22]framework.cache.initialize.before: 
+[2016-01-04 14:39:22]framework.cache.initialize.after: memcached
+[2016-01-04 14:39:22]framework.session.initialize.before: 
+[2016-01-04 14:39:22]framework.session.initialize.after: server
+[2016-01-04 14:39:22]framework.router.dispatch.before: languages/privacypolicy
+[2016-01-04 14:39:22]framework.router.dispatch.after: languages/privacypolicy, languages, privacypolicy
+[2016-01-04 14:39:22]framework.controller.construct.before: Languages
+[2016-01-04 14:39:22]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:39:22]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:39:22]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/privacypolicy.html
+[2016-01-04 14:39:22]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/privacypolicy.html
+[2016-01-04 14:39:22]framework.controller.construct.after: Languages
+Average: 0.0005275, Longest: 0.001571, Shortest: 6.7000000000039E-5, Total: 0.008907
+[2016-01-04 14:39:33]framework.configuration.initialize.before: ini
+[2016-01-04 14:39:33]framework.configuration.initialize.after: ini
+[2016-01-04 14:39:33]framework.database.initialize.before: 
+[2016-01-04 14:39:33]framework.database.initialize.after: mysql
+[2016-01-04 14:39:33]framework.cache.initialize.before: 
+[2016-01-04 14:39:33]framework.cache.initialize.after: memcached
+[2016-01-04 14:39:33]framework.session.initialize.before: 
+[2016-01-04 14:39:33]framework.session.initialize.after: server
+[2016-01-04 14:39:33]framework.router.dispatch.before: languages/blog-style4
+[2016-01-04 14:39:33]framework.router.dispatch.after: languages/blog-style4, languages, blog-style4
+[2016-01-04 14:39:33]framework.controller.construct.before: Languages
+[2016-01-04 14:39:33]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:39:33]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:39:33]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/blog-style4.html
+[2016-01-04 14:39:33]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/blog-style4.html
+[2016-01-04 14:39:33]framework.controller.construct.after: Languages
+Average: 0.000557625, Longest: 0.0016660000000001, Shortest: 5.8000000000002E-5, Total: 0.009379
+[2016-01-04 14:41:55]framework.configuration.initialize.before: ini
+[2016-01-04 14:41:55]framework.configuration.initialize.after: ini
+[2016-01-04 14:41:55]framework.database.initialize.before: 
+[2016-01-04 14:41:55]framework.database.initialize.after: mysql
+[2016-01-04 14:41:55]framework.cache.initialize.before: 
+[2016-01-04 14:41:55]framework.cache.initialize.after: memcached
+[2016-01-04 14:41:55]framework.session.initialize.before: 
+[2016-01-04 14:41:55]framework.session.initialize.after: server
+[2016-01-04 14:41:55]framework.router.dispatch.before: robots
+[2016-01-04 14:41:55]framework.router.dispatch.after: robots, robots, index
+Average: 0.0014539, Longest: 0.006005, Shortest: 9.5999999999985E-5, Total: 0.014899
+[2016-01-04 14:41:55]framework.configuration.initialize.before: ini
+[2016-01-04 14:41:55]framework.configuration.initialize.after: ini
+[2016-01-04 14:41:55]framework.database.initialize.before: 
+[2016-01-04 14:41:55]framework.database.initialize.after: mysql
+[2016-01-04 14:41:55]framework.cache.initialize.before: 
+[2016-01-04 14:41:55]framework.cache.initialize.after: memcached
+[2016-01-04 14:41:55]framework.session.initialize.before: 
+[2016-01-04 14:41:55]framework.session.initialize.after: server
+[2016-01-04 14:41:55]framework.router.dispatch.before: languages/blog-single
+[2016-01-04 14:41:55]framework.router.dispatch.after: languages/blog-single, languages, blog-single
+[2016-01-04 14:41:55]framework.controller.construct.before: Languages
+[2016-01-04 14:41:55]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:41:55]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:41:55]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/blog-single.html
+[2016-01-04 14:41:55]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/blog-single.html
+[2016-01-04 14:41:55]framework.controller.construct.after: Languages
+Average: 0.000930375, Longest: 0.004558, Shortest: 6.0000000000004E-5, Total: 0.015259
+[2016-01-04 14:43:30]framework.configuration.initialize.before: ini
+[2016-01-04 14:43:30]framework.configuration.initialize.after: ini
+[2016-01-04 14:43:30]framework.database.initialize.before: 
+[2016-01-04 14:43:30]framework.database.initialize.after: mysql
+[2016-01-04 14:43:30]framework.cache.initialize.before: 
+[2016-01-04 14:43:30]framework.cache.initialize.after: memcached
+[2016-01-04 14:43:30]framework.session.initialize.before: 
+[2016-01-04 14:43:30]framework.session.initialize.after: server
+[2016-01-04 14:43:30]framework.router.dispatch.before: robots
+[2016-01-04 14:43:30]framework.router.dispatch.after: robots, robots, index
+Average: 0.0009826, Longest: 0.004853, Shortest: 0.000109, Total: 0.01021
+[2016-01-04 14:43:30]framework.configuration.initialize.before: ini
+[2016-01-04 14:43:30]framework.configuration.initialize.after: ini
+[2016-01-04 14:43:30]framework.database.initialize.before: 
+[2016-01-04 14:43:30]framework.database.initialize.after: mysql
+[2016-01-04 14:43:30]framework.cache.initialize.before: 
+[2016-01-04 14:43:30]framework.cache.initialize.after: memcached
+[2016-01-04 14:43:30]framework.session.initialize.before: 
+[2016-01-04 14:43:30]framework.session.initialize.after: server
+[2016-01-04 14:43:30]framework.router.dispatch.before: languages/blog-style3
+[2016-01-04 14:43:30]framework.router.dispatch.after: languages/blog-style3, languages, blog-style3
+[2016-01-04 14:43:30]framework.controller.construct.before: Languages
+[2016-01-04 14:43:30]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:43:30]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/layouts/standard.html
+[2016-01-04 14:43:30]framework.view.construct.before: /home/meraj/web/codecite.com/public_html/application/views/languages/blog-style3.html
+[2016-01-04 14:43:30]framework.view.construct.after: /home/meraj/web/codecite.com/public_html/application/views/languages/blog-style3.html
+[2016-01-04 14:43:30]framework.controller.construct.after: Languages
+Average: 0.000776875, Longest: 0.003887, Shortest: 6.0000000000004E-5, Total: 0.012829
+[2016-01-04 15:33:09]framework.configuration.initialize.before: ini
+[2016-01-04 15:33:09]framework.configuration.initialize.after: ini
+[2016-01-04 15:33:09]framework.database.initialize.before: 
+[2016-01-04 15:33:09]framework.database.initialize.after: mysql
+[2016-01-04 15:33:09]framework.cache.initialize.before: 
+[2016-01-04 15:33:09]framework.cache.initialize.after: memcached
+[2016-01-04 15:33:09]framework.session.initialize.before: 
+[2016-01-04 15:33:09]framework.session.initialize.after: server
+[2016-01-04 15:33:09]framework.router.dispatch.before: robots
+[2016-01-04 15:33:09]framework.router.dispatch.after: robots, robots, index
+Average: 0.0006251, Longest: 0.001643, Shortest: 9.9000000000016E-5, Total: 0.006616
+[2016-01-04 15:33:09]framework.configuration.initialize.before: ini
+[2016-01-04 15:33:09]framework.configuration.initialize.after: ini
+[2016-01-04 15:33:09]framework.database.initialize.before: 
+[2016-01-04 15:33:09]framework.database.initialize.after: mysql
+[2016-01-04 15:33:09]framework.cache.initialize.before: 
+[2016-01-04 15:33:09]framework.cache.initialize.after: memcached
+[2016-01-04 15:33:09]framework.session.initialize.before: 
+[2016-01-04 15:33:09]framework.session.initialize.after: server
+[2016-01-04 15:33:09]framework.router.dispatch.before: technews
+[2016-01-04 15:33:09]framework.router.dispatch.after: technews, technews, index
+Average: 0.0006159, Longest: 0.001528, Shortest: 0.00010199999999999, Total: 0.006509
